@@ -6,7 +6,7 @@
     <img src="./.github/assets/pallet/pallet1.png" width="800px" />
     
     
-   div align="center">
+   <div align="center">
       <p></p>
       <div align="center">
          <a href="https://github.com/Frost-Phoenix/nixos-config/stargazers">
