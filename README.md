@@ -3,4 +3,5 @@
     <br>
     WeightOS's Vault
     <br>
+    <img src="./.github/assets/pallet/pallet1.png" width="600px" />
     </h1>
