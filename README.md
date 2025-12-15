@@ -1,2 +1,2 @@
-# WightOS
+# WeightOS
 A Obsdian Vault
