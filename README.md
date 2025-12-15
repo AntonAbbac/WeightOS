@@ -6,9 +6,16 @@
     <img src="./.github/assets/pallet/pallet1.png" width="800px" />
     <br>
     "Weight builds foundation"
+    <br>
+    
+    <br>
     Size: 100–300 MB
+    <br>
+    
+    <br>
     Function: Second Brain
     <br>
+    
     </h1>
     
 ## 🌌 Overview 
