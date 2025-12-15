@@ -1,5 +1,0 @@
----
-Date:
-tags:
-  - permanent
----
