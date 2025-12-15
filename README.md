@@ -1,0 +1,2 @@
+# WightOS
+A Obsdian Vault
