@@ -6,9 +6,9 @@
     <img src="./.github/assets/pallet/pallet1.png" width="800px" />
     </h1>
     
-# 🌌 Overview 
+## 🌌 Overview 
 
-## 🔹 Layout 
+### 🔹 Layout 
   
 
 > # Weight builds foundation
@@ -26,50 +26,10 @@
 #### [[Planning PSC System]]
 #### [[Moc’s System]]
 
-### 📖 Plugins
-
-#### 📓 Core Plugins
-
-- Audio Recorder
-- Backlinks
-- Bases
-- Bookmarks
-- Canvas
-- Command Palette
-- Files
-- Footnotes View
-- Graph View
-- Note Composer
-- Outgoing Links
-- Outline
-- Page Preview
-- Properties View
-- Quick Switcher
-- Search
-- Slash Commands
-- Slides
-- Tags View
-- Word Count
-- Workspaces
-#### 📚 Community Plugins
-
-- Calendar
-- Canvas MindMap
-- Checklist
-- Code Styler
-- Commander
-- Dataview
-- File Explorer Note Count
-- Iconize
-- Ninja Cursor
-- Omnisearch
-- Paste URL into selection
-- Quick Add
-- Recent Files
-- Smart Typography
-- Tasks
-- Templater
-- Text Format
+|                             | 📖 Plugins                                                                                    |
+| --------------------------- | :-------------------------------------------------------------------------------------------- |
+| **📓 Core Plugins**         | - Audio Recorder<br>- Backlinks<br>- Bases<br>- Bookmarks<br>- Canvas<br>- Command Palette<br>- Files<br>- Footnotes View<br>- Graph View<br>- Note Composer<br>- Outgoing Links<br>- Outline<br>- Page Preview<br>- Properties View<br>- Quick Switcher<br>- Search<br>- Slash Commands<br>- Slides<br>- Tags View<br>- Word Count<br>- Workspaces |
+| **📚 Community Plugins**    | - Calendar<br>- Canvas MindMap<br>- Checklist<br>- Code Styler<br>- Commander<br>- Dataview<br>- File Explorer Note Count<br>- Iconize<br>- Ninja Cursor<br>- Omnisearch<br>- Paste URL into selection<br>- Quick Add<br>- Recent Files<br>- Smart Typography<br>- Tasks<br>- Templater<br>- Text Format |
 
 ### 🗂️ Folder Structure
 
