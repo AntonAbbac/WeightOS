@@ -4,9 +4,12 @@
     WeightOS's Vault
     <br>
     <img src="./.github/assets/pallet/pallet1.png" width="800px" />
+    <br>
     > # Weight builds foundation
     #### Size: 100–300 MB
     #### Function: Second Brain
+    <br>
+    
     </h1>
     
 ## 🌌 Overview 
