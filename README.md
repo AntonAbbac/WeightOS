@@ -17,9 +17,7 @@
 #### Tamanho: 100 - 300mb
 #### Função: Segundo Cérebro
 
-***
-
-### Systems:
+### 📖 Systems:
 #### [[PARA System]]
 #### [[Zettelkasten System]]
 #### [[PS System Zettelkasten]]
@@ -28,11 +26,9 @@
 #### [[Planning PSC System]]
 #### [[Moc’s System]]
 
----
+### 📖 Plugins
 
-### Plugins
-
-#### Core Plugins
+#### 📓 Core Plugins
 
 - Audio Recorder
 - Backlinks
@@ -55,7 +51,7 @@
 - Tags View
 - Word Count
 - Workspaces
-#### Community Plugins
+#### 📚 Community Plugins
 
 - Calendar
 - Canvas MindMap
@@ -75,9 +71,7 @@
 - Templater
 - Text Format
 
-***
-
-### Folder Structure
+### 🗂️ Folder Structure
 
 - 📁 00 - Inbox
 - 📁 01 - Maps of content
