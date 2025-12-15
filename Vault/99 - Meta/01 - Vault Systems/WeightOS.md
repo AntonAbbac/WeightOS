@@ -8,7 +8,7 @@ cssclasses:
   - pen-blue
 ---
 
-![[WeightLogo.png]]
+![[WeightLogo 1.png]]
 
 > # Weight builds foundation
 
