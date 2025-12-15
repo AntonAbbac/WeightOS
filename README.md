@@ -7,17 +7,10 @@
     <br>
     "Weight builds foundation"
     <br>
-    
-    <br>
-    Size: 100–300 MB
-    <br>
-    
-    <br>
-    Function: Second Brain
-    <br>
-    
     </h1>
     
+# Size: 100–300 MB
+# Function: Second Brain
 ## 🌌 Overview 
 ### 🔹 Layout
 
