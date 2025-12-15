@@ -176,6 +176,30 @@
               "icon": "lucide-file",
               "title": "Journaling System"
             }
+          },
+          {
+            "id": "f57e3d372a9cff94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Journal/00 - Daily/20251215.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251215"
+            }
           }
         ],
         "currentTab": 2
@@ -430,13 +454,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5dc943d0706f188",
+  "active": "6f8cb865fe1697a3",
   "lastOpenFiles": [
+    "06 - Journal/00 - Daily/20251215.md",
+    "99 - Meta/01 - Vault Systems/WeightOS.md",
     "08 - Archives/Attatchments/WeightLogo 1.png",
     "99 - Meta/01 - Vault Systems/PS System Zettelkasten.md",
-    "06 - Journal/00 - Daily/20251215.md",
     "99 - Meta/01 - Vault Systems/Journaling System.md",
-    "99 - Meta/01 - Vault Systems/WeightOS.md",
     "08 - Archives/Attatchments/WeightLogo.png",
     "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/Personagem Roleplay Hellsing DEF.md",
     "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/Personagem Roleplay Hellsing DEF RP.md",
