@@ -4,13 +4,15 @@
     WeightOS's Vault
     <br>
     <img src="./.github/assets/pallet/pallet1.png" width="800px" />
-    </h1>
+    
     
     <div align="center">
     
-    <img src="https://img.shields.io/badge/coverage-95%25-orange" width="200px"/>
+    <img src="https://img.shields.io/badge/coverage-95%25-orange">
     
     </div>
+    </h1>
+    
 ## 🌌 Overview 
 
 ### 🔹 Layout 
