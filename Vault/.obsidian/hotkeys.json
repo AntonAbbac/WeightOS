@@ -1,0 +1,70 @@
+{
+  "multiple-daily-notes:create-daily-notes": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
+  ],
+  "periodic-notes:open-yearly-note": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "obsidian-excalidraw-plugin:fullscreen": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "periodic-notes:open-weekly-note": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
+  ],
+  "periodic-notes:open-monthly-note": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ],
+  "periodic-notes:next-daily-note": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F9"
+    }
+  ],
+  "periodic-notes:next-weekly-note": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F10"
+    }
+  ],
+  "periodic-notes:next-monthly-note": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F11"
+    }
+  ],
+  "periodic-notes:next-yearly-note": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F12"
+    }
+  ]
+}

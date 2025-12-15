@@ -1,0 +1,17 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Obsidianite",
+  "enabledCssSnippets": [
+    "Runescape - Voxel",
+    "Notebook Backgrounds - Voxel",
+    "Minecraft - Voxel",
+    "Japanese fonts - Voxel",
+    "CyanVoxel_s General Tweaks",
+    "Colored Sidebar Items - Voxel",
+    "Periodic Note Themes - Review",
+    "Periodic Note Themes",
+    "Daily Note Themes - Voxel"
+  ],
+  "accentColor": "#0000ff",
+  "baseFontSize": 16
+}

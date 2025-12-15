@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"f23fb3cd449151a4","type":"group","x":80,"y":600,"width":400,"height":480,"label":"Zettelkasten Padrão"},
+		{"id":"864911796d1405f1","type":"text","text":"Nota Zettelkasten PS - Problema","x":670,"y":440,"width":250,"height":80,"color":"5"},
+		{"id":"b538e4d5b2ea8855","type":"text","text":"Fleeting Note IP — Temporária","x":670,"y":600,"width":250,"height":80,"color":"1"},
+		{"id":"24063a2388488596","type":"text","text":"-  Capturar problema\n- Tomar hipótese inicial\n- Deixar para estrutura-lo depois","x":670,"y":760,"width":250,"height":160,"color":"4"},
+		{"id":"133f4b7ac0ad2899","type":"text","text":"Literature Notes PS — Temporária ou finalizadora","x":670,"y":1040,"width":250,"height":100,"color":"1"},
+		{"id":"634844af74734dc1","type":"text","text":"- Possíveis Soluções de terceiros.\n- Opinião Pessoal sobre essas soluções\n- Links de soluções que podem ser úteis ou parecidas","x":1060,"y":990,"width":280,"height":200,"color":"4"},
+		{"id":"5f8e9b9958cc6c13","type":"text","text":"Início","x":420,"y":60,"width":250,"height":60,"color":"6"},
+		{"id":"d296b1941588d5c0","type":"text","text":"É uma nota Zettelkasten comum ou\nnota PS?\n\nÉ uma ideia ou um problema?","x":420,"y":160,"width":250,"height":200,"color":"1"},
+		{"id":"72db9ad88be47b40","type":"text","text":"Ciclo de notas finalizado","x":1064,"y":810,"width":272,"height":60,"color":"6"},
+		{"id":"4835264f3f530859","type":"text","text":"Seguir sistema Zettelkasten padrão, focando em capturar ideias e gerar conexões entre notas.","x":80,"y":600,"width":400,"height":100,"color":"1"},
+		{"id":"8912abb468b334e8","type":"file","file":"99 - Meta/01 - Vault Systems/Zettelkasten System.md","x":80,"y":760,"width":400,"height":340,"color":"6"},
+		{"id":"78cbae864335dca1","type":"text","text":"Nota Zettelkasten comum - ideia","x":170,"y":440,"width":250,"height":60,"color":"5"},
+		{"id":"b08a335545fb9e8b","x":1551,"y":1062,"width":250,"height":60,"color":"1","type":"text","text":"Permanent Notes PS — Finalizadora"},
+		{"id":"61d77256584fa997","x":1999,"y":1059,"width":250,"height":60,"type":"text","text":"- Reflexão pessoal do problema"}
+	],
+	"edges":[
+		{"id":"00f80f182c67f91e","fromNode":"5f8e9b9958cc6c13","fromSide":"bottom","toNode":"d296b1941588d5c0","toSide":"top"},
+		{"id":"000384d49a6c754a","fromNode":"78cbae864335dca1","fromSide":"top","toNode":"d296b1941588d5c0","toSide":"bottom"},
+		{"id":"be622bf1f16c2cc6","fromNode":"d296b1941588d5c0","fromSide":"bottom","toNode":"864911796d1405f1","toSide":"top"},
+		{"id":"e30babc3b225fa97","fromNode":"78cbae864335dca1","fromSide":"bottom","toNode":"4835264f3f530859","toSide":"top"},
+		{"id":"a9e9d35e12c348ab","fromNode":"864911796d1405f1","fromSide":"bottom","toNode":"b538e4d5b2ea8855","toSide":"top"},
+		{"id":"5c5e32be8c93013a","fromNode":"b538e4d5b2ea8855","fromSide":"bottom","toNode":"24063a2388488596","toSide":"top"},
+		{"id":"96aab3b311f8a0e1","fromNode":"24063a2388488596","fromSide":"bottom","toNode":"133f4b7ac0ad2899","toSide":"top"},
+		{"id":"ff42e3ad9c3bc72c","fromNode":"133f4b7ac0ad2899","fromSide":"right","toNode":"634844af74734dc1","toSide":"left"},
+		{"id":"6fa2ef473473f8fa","fromNode":"634844af74734dc1","fromSide":"top","toNode":"72db9ad88be47b40","toSide":"bottom"},
+		{"id":"bc3c6f22a020af0e","fromNode":"634844af74734dc1","fromSide":"right","toNode":"b08a335545fb9e8b","toSide":"left"},
+		{"id":"fd2377423fa944b8","fromNode":"b08a335545fb9e8b","fromSide":"right","toNode":"61d77256584fa997","toSide":"left"}
+	]
+}
