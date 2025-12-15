@@ -4,17 +4,13 @@
     WeightOS's Vault
     <br>
     <img src="./.github/assets/pallet/pallet1.png" width="800px" />
-    
+    > # Weight builds foundation
+    #### Size: 100–300 MB
+    #### Function: Second Brain
     </h1>
     
 ## 🌌 Overview 
 ### 🔹 Layout 
-  
-
-> # Weight builds foundation
-
-#### Tamanho: 100 - 300mb
-#### Função: Segundo Cérebro
 
 ### 📖 Systems:
 #### [[PARA System]]
