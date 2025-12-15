@@ -6,7 +6,7 @@
     <img src="./.github/assets/pallet/pallet1.png" width="800px" />
     </h1>
     
-    <img src="https://img.shields.io/badge/coverage-95%25-orange" />
+    <img src="https://img.shields.io/badge/coverage-95%25-orange" width="200px"/>
 ## 🌌 Overview 
 
 ### 🔹 Layout 
