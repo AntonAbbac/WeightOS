@@ -31,7 +31,7 @@ tags:
 ##### Meios de obtenção
 
 - Cavaleiros de Deus podem obter seus próprios poderes após uma conexão com o sagrado e divino, se tornando seguidores de suas funções no plano divino e cósmico. Em contra-partida, cavaleiros podem receber seus poderes através de situações extremas como a quase morte ou a perda de alguém próximo.
-- Um humano médio pode usar um dos artefatos divinos como o “Holy Nail of Helena”, que transformou Alexander Anderson em um “God's Monster”. Dependendo de sua fé, ele pode receber uma manifestação da alma própria, se tonar um Monstro como Anderson, ou morrer.
+- Um humano médio pode usar um dos artefatos divinos como o “Holy Nail of Helena”, que transformou Alexander Anderson em um “God's Monster”. Dependendo de sua fé, ele pode receber uma manifestação da alma própria ou se tonar um Monstro como Anderson, ou morrer.
 
 ##### Meios de evolução
 
@@ -39,10 +39,19 @@ tags:
 ###### !Evolução Forçada!
 
 - Evoluir a própria manifestação da alma de forma forçada, como a manipulação do próprio ser por meios alternativos, como a liberação de essência a um ser amaldiçoado em busca de poder pode trazer muitos malefícios, como:
-  
-  - Desobediência da própria manifestação pela diferença de poder do usuário para sua alma alterada.
-  - Descontrole de poder, manifestação e capacidade de atacar o próprio usuário.
-  - Corrupção própria essência e perda do título como Cavaleiro de Deus.
+- Desobediência da própria manifestação pela diferença de poder do usuário para sua alma alterada.
+ - Descontrole de poder, manifestação e capacidade de atacar o próprio usuário.
+ - Corrupção própria essência e perda do título como Cavaleiro de Deus.
+
+##### Linha perigosa
+
+- Um Cavaleiro de Deus pode ter a sua própria manifestação possuída por conceitos malignos, perversos ou simbólicos. Vampiros ou demónios que já não são meramente seres físicos, mas conceitos do mal ou do bem.
+
+- O cavaleiro pode viver toda a sua vida sem perceber que está a partilhar a sua alma com outro ser ou criatura, muitas vezes sendo guiado pelo medo dos seus alvos como combustível ou estímulo.
+
+- Cavaleiros de Deus que possuem conceitos simbólicos além dos seus próprios mandamentos e pecados não podem aceder à sabedoria e ao conhecimento do passado, pois a fonte do poder não vem da humanidade nem dos conceitos cristãos.
+
+(Não, Anton não terá esse tipo de manifestação possuída, é raro demais, demais, demais.)
 
 #### Linhagem espiritual
 
@@ -60,16 +69,12 @@ tags:
 
 - Um Cavaleiro de Deus quase nunca é permitido a ter habilidades que superem a da própria força divina, elas são restritas á sua própria humanidade, e caso o contrário, se um Cavaleiro a transcender, não se sabe o que pode vir.
   
-##### Habilidades Demoníacas
+##### Habilidades Partilhadas do mal
 
-- Habilidades demoníacas quase nunca são usadas pelas categorias equilibradas dos Cavaleiros de Deus, em contra partida Cavaleiros que possuem mais conexão desumanas podem usar esse tipo de habilidade com mais frenquência, o que traz perigos consigo.
+- Habilidades partilhadas quase nunca são usadas pelas categorias equilibradas dos Cavaleiros de Deus, em contra partida Cavaleiros que possuem mais conexão desumanas podem usar esse tipo de habilidade com mais frenquência, o que traz perigos consigo. Ele é obrigado a ter sua manifestação apossada.
 
-
-
-
-  
 #### Resumo
-
-- Cavaleiros que recebem uma oferta de sangue, como a de se transformar em um vampiro verdadeiro ou até mesmo se tornar um demônio e recusar tal oferta, são considerados os mais fortes, pois sua fé não se rende mesmo em desespero. 
-
+ 
 - Os cavaleiros de Deus podem representar um dos mandamentos ou até 2 que refletem suas próprias almas. Cavaleiros que possuem um pecado e mandamento ao mesmo são o tipo mais poderoso, pois seu equilíbrio é medido completamente por sua humanidade.
+- Virou monstro ou deixou de ser humano? Perdeu todas as habilidades de um Cavaleiro de Deus, levando conhecimento e força.
+- Cavaleiro de Deus não obriga a manifestação a ser uma armadura, pode ser literalmente qualquer coisa que represente o personagem.
