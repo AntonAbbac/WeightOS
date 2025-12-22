@@ -107,4 +107,4 @@ Screenshots latest update <b>2025-12-22</b>
 
 ### 🔧 Installation
 
-> [!CAUTION]
+[!CAUTION]
