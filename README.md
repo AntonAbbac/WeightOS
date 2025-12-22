@@ -116,6 +116,15 @@ Screenshots latest update <b>2025-12-22</b>
 
 ### 1. **Install Obsidian**
 
-First, install Obsidian for your specific device.
+First, install Obsidian for your specific device.(Windows; Linux; MacOS; Android; etc)
+
 > [!NOTE]
 > Official URL: https://obsidian.md/download
+
+### 2. **Clone the repo**
+
+```bash
+nix-shell -p git
+https://github.com/AntonAbbac/WeightOS
+cd WeightOS
+```
