@@ -38,7 +38,6 @@
 Screenshots latest update <b>2025-12-22</b>
 </p>
 
-
 ### 🔹 Layout
 
 ### 📖 Systems:
@@ -105,3 +104,7 @@ Screenshots latest update <b>2025-12-22</b>
         - 📁 00 - Templates
         - 📁 01 - Vault Systems
         - 📁 02 - Flowcharts
+
+### 🔧 Installation
+
+> [!CAUTION]
