@@ -13,7 +13,7 @@
       <div align="center">
          <a href="https://github.com/AntonAbbac/WeightOS/">
 <a href="https://obsidian.md" target="_blank">
-  <img src="https://img.shields.io/badge/Notes-Obsidian-%23483699?style=flat-square&logo=obsidian&logoColor=white" alt="Notes in Obsidian" />
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?logo=obsidian&logoColor=white" alt="Obsidian">
 </a>
             <img src="https://img.shields.io/github/repo-size/AntonAbbac/WeightOS?color=B16286&labelColor=282828&style=for-the-badge&logo=github&logoColor=B16286">
          </a>
