@@ -15,11 +15,11 @@ Bairro: Santa Felicidade.
 
 ### Como vou me preparar?
 
-Meu [[Douglas - Pai e Figura Paterna]] me deu algumas ideias interessantes para o nosso pequeno passeio no parque. Primeiro ele havia me recomendado levar uma mochila com uma manta para colocar no chão, algumas garrafas de água e comida feita em casa. Tirando que a ideia se encaixa completamente no conceito de um piquenique, essas ações solidárias serão executadas quando nós já estivermos cansados de ficar caminhando sem parar.
+Meu [[Douglas - Padrasto]] me deu algumas ideias interessantes para o nosso pequeno passeio no parque. Primeiro ele havia me recomendado levar uma mochila com uma manta para colocar no chão, algumas garrafas de água e comida feita em casa. Tirando que a ideia se encaixa completamente no conceito de um piquenique, essas ações solidárias serão executadas quando nós já estivermos cansados de ficar caminhando sem parar.
 
 ### Dinheiro e transporte.
 
-Como eu já deixei transparente meu gosto pela [[Maria Eduarda]] para meus parentes, será fácil convence-los a me ajudar com dinheiro ou transporte. Posso ir de Uber, ou no Sentra do meu [[Douglas - Pai e Figura Paterna]].
+Como eu já deixei transparente meu gosto pela [[Maria Eduarda]] para meus parentes, será fácil convence-los a me ajudar com dinheiro ou transporte. Posso ir de Uber, ou no Sentra do meu [[Douglas - Padrasto]].
 
 ### Oque aconteceu no encontro?
 

@@ -23,7 +23,16 @@
     </h1>
     
 # Function: Second Brain
-## 🌌 Overview 
+## 🌌 Overview
+
+### Screenshots
+
+#### Mobile
+
+<img src="./.github/assets/screenshots/Vault_Overview.png"/>
+
+<img src="./.github/assets/screenshots/Vault_explorer.png"/>
+
 ### 🔹 Layout
 
 ### 📖 Systems:
