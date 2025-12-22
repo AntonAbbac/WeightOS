@@ -31,7 +31,7 @@
 
 <img src="./.github/assets/screenshots/Vault_Overview.png"/>
 
-<img src="./.github/assets/screenshots/Vault_explorer.png"/>
+<img src="./.github/assets/screenshots/Vault_Explorer.png"/>
 
 ### 🔹 Layout
 
