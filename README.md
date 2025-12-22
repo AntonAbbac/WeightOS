@@ -105,7 +105,7 @@ Screenshots latest update <b>2025-12-22</b>
         - 📁 01 - Vault Systems
         - 📁 02 - Flowcharts
 
-### 🔧 Installation
+# 🔧 Installation
 
 > [!CAUTION]
 > Before installing and using the vault system, try to understand how its systems and information cycle works to minimize questions and find answers.
@@ -113,3 +113,9 @@ Screenshots latest update <b>2025-12-22</b>
 
 > [!NOTE]
 > It is highly recommended to understand how the vault works before using it.
+
+### 1. **Install Obsidian**
+
+First, install Obsidian for your specific device.
+> [!NOTE]
+> Official URL: https://obsidian.md/download
