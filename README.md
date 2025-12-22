@@ -107,4 +107,9 @@ Screenshots latest update <b>2025-12-22</b>
 
 ### 🔧 Installation
 
-[!CAUTION]
+> [!CAUTION]
+> Before installing and using the vault system, try to understand how its systems and information cycle works to minimize questions and find answers.
+> I am not responsible for any installation or configuration difficulties.
+
+> [!NOTE]
+> It is highly recommended to understand how the vault works before using it.
