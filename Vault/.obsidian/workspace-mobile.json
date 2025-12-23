@@ -87,6 +87,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "09 - AI/Prompts/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "f8e9e954982fa669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Journal/00 - Daily/20240618.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20240618"
+            }
+          },
+          {
+            "id": "268f9ce9237a4dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "06 - Journal/00 - Daily/20251223.md",
                 "mode": "source",
                 "source": false,
@@ -106,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -335,16 +383,21 @@
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "quickadd:QuickAdd": false,
-      "obsidian-git:Open Git source control": false
+      "quickadd:QuickAdd": false
     }
   },
-  "active": "8cdcdd4d73026c14",
+  "active": "268f9ce9237a4dda",
   "lastOpenFiles": [
-    "00 - Inbox/202512231428 Style Settings.md",
-    "00 - Inbox/202512152226 Conceitos e Vilões.md",
-    "06 - Journal/02 - Monthly Strategy/December 2025.md",
     "06 - Journal/00 - Daily/20240618.md",
+    "00 - Inbox/202512152226 Conceitos e Vilões 1.md",
+    "01 - Maps of Content/Como estudar para o Enem.md",
+    "00 - Inbox/202512231428 Style Settings.md",
+    "06 - Journal/00 - Daily/20251223.md",
+    "09 - AI/Prompts/Untitled.md",
+    "09 - AI/Prompts",
+    "09 - AI",
+    "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/202512152226 Conceitos e Vilões.md",
+    "06 - Journal/02 - Monthly Strategy/December 2025.md",
     "03 - Areas/01 - Habits & Routines/02 - Studys Routine/Studys routine PTA.md",
     "03 - Areas/03- Relationships/Maria Eduarda Lau - First GF/202509241456 Revelação do TPA.md",
     "99 - Meta/01 - Vault Systems/WeightOS.md",
@@ -353,14 +406,12 @@
     "08 - Archives/Attatchments/20251214_153711_0000.png",
     "Desenvolvendo foco e atenção absolutos.md",
     "03 - Areas/01 - Habits & Routines/01 - Daily Routines/Routine.md",
-    "01 - Maps of Content/Como estudar para o Enem.md",
     "Untitled.canvas",
     "Untitled.base",
     "04 - Resources/Medias/202509011737 Como estudar para o ENEM - 4.md",
     "04 - Resources/AI/202506041133 Teorias interessantes da psicologia.md",
     "05 - Zettelkasten PS/01 - Permanent R/202510142057 Criação de sistemas á metas.md",
     "05 - Zettelkasten PS/01 - Permanent R/202509241607 Template para personagem de RP.md",
-    "06 - Journal/00 - Daily/20251223.md",
     "04 - Resources/Medias/202509042107 Como estudar Repetição Espaçada com IA.md",
     "06 - Journal/00 - Daily/20251031.md",
     "06 - Journal/00 - Daily/20251101.md",
@@ -370,8 +421,6 @@
     "06 - Journal/00 - Daily/20251104.md",
     "06 - Journal/00 - Daily/20251106.md",
     "06 - Journal/00 - Daily/20251112.md",
-    "06 - Journal/00 - Daily/20251116.md",
-    "06 - Journal/00 - Daily/20251118.md",
     "WeigthLogo 1.png",
     "20251214_153711_0000 1.png",
     "08 - Archives/Attatchments",
@@ -382,8 +431,6 @@
     "03 - Areas/06 - Roleplay",
     "08 - Archives/Old Templates",
     "99 - Meta/02 - Flowcharts/Zettelkasten PS.canvas",
-    "03 - Areas/04 - Relationships/Douglas Rodrigo da Silva – Padrasto",
-    "05 - Zettelkasten PS/02 - Literature Notes PS/AI",
     "99 - Meta/Flowcharts/Zettelkasten PS.canvas"
   ]
 }

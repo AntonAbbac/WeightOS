@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiOpenai",
+      "SiOpenaigym",
       "RiAttachment2",
       "CoFolders",
-      "LiTerminal",
-      "FasPerson",
-      "OcPerson16"
+      "LiTerminal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,13 +34,34 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "07 - People": "LiTheater",
-  "08 - Archives": "LiArchive",
-  "99 - Meta": "LiBrainCircuit",
-  "06 - Journal": "LiBookUser",
-  "00 - Inbox": "LiInbox",
-  "03 - Areas": "LiBox",
-  "04 - Resources": "LiFile",
+  "07 - People": {
+    "iconName": "LiTheater",
+    "iconColor": "#ff0000"
+  },
+  "08 - Archives": {
+    "iconName": "LiArchive",
+    "iconColor": "#ffffff"
+  },
+  "99 - Meta": {
+    "iconName": "LiBrainCircuit",
+    "iconColor": "#424242"
+  },
+  "06 - Journal": {
+    "iconName": "LiBookUser",
+    "iconColor": "#9d00ff"
+  },
+  "00 - Inbox": {
+    "iconName": "LiInbox",
+    "iconColor": "#00ff00"
+  },
+  "03 - Areas": {
+    "iconName": "LiBox",
+    "iconColor": "#00ffff"
+  },
+  "04 - Resources": {
+    "iconName": "LiFile",
+    "iconColor": "#ff00ff"
+  },
   "07 - People/00- Psychologic Profile": "LiIdCard",
   "03 - Areas/00 - Health": "LiHeart",
   "03 - Areas/01 - Habits & Routines": "LiAlarmClock",
@@ -94,14 +115,27 @@
   "02 - Projects/01 - END plan - Q/README.md": "SiMdbook",
   "02 - Projects/01 - END plan - Q/Index.md": "LiTerminal",
   "02 - Projects/01 - END plan - Q/Anton Abbac.md": "FasPerson",
-  "01 - Maps of Content": "RiMindMap",
-  "02 - Projects": "LiAlignVerticalDistributeCenter",
-  "05 - Zettelkasten PS": "LiBoxes",
+  "01 - Maps of Content": {
+    "iconName": "RiMindMap",
+    "iconColor": "#0000ff"
+  },
+  "02 - Projects": {
+    "iconName": "LiAlignVerticalDistributeCenter",
+    "iconColor": "#ff0000"
+  },
+  "05 - Zettelkasten PS": {
+    "iconName": "LiBoxes",
+    "iconColor": "#ff006f"
+  },
   "03 - Areas/06 - Games": "LiSword",
   "08 - Archives/Deprecated Folders": "CoFolders",
   "08 - Archives/Deprecated Folders/01 - Criminal Profiles": "RiCriminalLine",
   "08 - Archives/Deprecated Folders/02 - Influential Thinkers": "OcPeople16",
   "07 - People/01 - Human Bestiary": "RiKnifeBloodFill",
   "08 - Archives/Deprecated Projects/03 - Khronus": "SiClockify",
-  "08 - Archives/Attatchments": "RiAttachment2"
+  "08 - Archives/Attatchments": "RiAttachment2",
+  "09 - AI": {
+    "iconName": "SiOpenai",
+    "iconColor": "#00f7ff"
+  }
 }
