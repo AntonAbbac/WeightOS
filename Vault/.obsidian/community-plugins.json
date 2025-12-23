@@ -19,5 +19,6 @@
   "quickadd",
   "canvas-mindmap",
   "obsidian-checklist-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-linter"
 ]
