@@ -80,9 +80,81 @@
               "icon": "lucide-file",
               "title": "20251222"
             }
+          },
+          {
+            "id": "15e169ae8cbec3d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Journal/00 - Daily/20251031.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251031"
+            }
+          },
+          {
+            "id": "3505431b4baac814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Resources/Medias/202509042107 Como estudar Repetição Espaçada com IA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202509042107 Como estudar Repetição Espaçada com IA"
+            }
+          },
+          {
+            "id": "b597188f522ad8b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Journal/00 - Daily/20251223.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251223"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -334,35 +406,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "204d8c11ccfeb353",
+  "active": "3505431b4baac814",
   "lastOpenFiles": [
-    "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/Personagem Roleplay Hellsing DEF.md",
-    "06 - Journal/00 - Daily/20251222.md",
-    "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/Personagem Roleplay Hellsing DEF RP.md",
-    "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/202510302348 Anton Abbac Lore.md",
-    "06 - Journal/02 - Monthly Strategy/December 2025.md",
-    "06 - Journal/00 - Daily/20251215.md",
-    "99 - Meta/01 - Vault Systems/Journaling System.md",
-    "06 - Journal/00 - Daily/20251221.md",
-    "03 - Areas/01 - Habits & Routines/03 - Exercise routine/Daily Training.md",
-    "03 - Areas/01 - Habits & Routines/01 - Daily Routines/Routine.md",
-    "08 - Archives/Deprecated Notes/Routine.md",
-    "02 - Projects/01 - END plan - Q/Anton Abbac.md",
-    "02 - Projects/01 - END plan - Q/Index.md",
-    "02 - Projects/01 - END plan - Q/README.md",
-    "07 - People/00- Psychologic Profile/Rafael - Irmão.md",
-    "07 - People/00- Psychologic Profile/Maria Luiza - Brother GF.md",
-    "07 - People/00- Psychologic Profile/Maria Eduarda.md",
-    "07 - People/00- Psychologic Profile/Douglas - Padrasto.md",
-    "07 - People/01 - Human Bestiary/202508100053 Vietnam Butcher.md",
-    "03 - Areas/01 - Habits & Routines/03 - Exercise routine/Full Body Training.md",
-    "06 - Journal/00 - Daily/20251217.md",
-    "00 - Inbox/202512152226 Conceitos e Vilões.md",
-    "08 - Archives/Deprecated Notes/202511302147 Passos inciais laptop.md",
-    "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/202510152121 Lore dos cavaleiros de Deus.md",
-    "99 - Meta/01 - Vault Systems/WeightOS.md",
+    "06 - Journal/00 - Daily/20251223.md",
+    "06 - Journal/00 - Daily/20251031.md",
+    "06 - Journal/00 - Daily/20251101.md",
+    "06 - Journal/00 - Daily/20251102.md",
+    "06 - Journal/00 - Daily/20251103.md",
+    "06 - Journal/00 - Daily/20251105.md",
+    "06 - Journal/00 - Daily/20251104.md",
+    "06 - Journal/00 - Daily/20251106.md",
+    "06 - Journal/00 - Daily/20251112.md",
+    "06 - Journal/00 - Daily/20251116.md",
+    "06 - Journal/00 - Daily/20251118.md",
+    "06 - Journal/00 - Daily/20251119.md",
+    "06 - Journal/00 - Daily/20251120.md",
+    "06 - Journal/00 - Daily/20251121.md",
+    "06 - Journal/00 - Daily/20251122.md",
+    "06 - Journal/00 - Daily/20251123.md",
+    "06 - Journal/00 - Daily/20251124.md",
+    "06 - Journal/00 - Daily/20251127.md",
+    "06 - Journal/00 - Daily/20251128.md",
+    "06 - Journal/00 - Daily/20251129.md",
+    "06 - Journal/00 - Daily/20251130.md",
+    "06 - Journal/00 - Daily/20251201.md",
+    "06 - Journal/00 - Daily/20251202.md",
+    "06 - Journal/00 - Daily/20251205.md",
+    "06 - Journal/00 - Daily/20251206.md",
+    "06 - Journal/00 - Daily/20251207.md",
     "08 - Archives/Attatchments/WeightLogo 1.png",
-    "99 - Meta/01 - Vault Systems/PS System Zettelkasten.md",
     "08 - Archives/Attatchments/WeightLogo.png",
     "WeigthLogo 1.png",
     "20251214_153711_0000 1.png",
