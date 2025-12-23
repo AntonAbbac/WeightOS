@@ -2,6 +2,7 @@
 Date: 2025-12-15T22:26:00
 Date - Mod:
 tags:
+  - AI
 ---
 Eu não vou explorar conceito algum com esses personagens ainda, então vai parecer muito superficial e viajado, não ligue pois serão desenvolvidos e talvez isso vire uma história própria sem Hellsing no futuro. Essa é a 0.1v.
 

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Inbox/202512152226 Conceitos e Vilões.md",
+                "file": "00 - Inbox/202512231428 Style Settings.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202512152226 Conceitos e Vilões"
+              "title": "202512231428 Style Settings"
             }
           },
           {
-            "id": "1e6bc5d3f85e63b5",
+            "id": "3c3dcdd47de6c789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Inbox/202512231428 Style Settings.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202512231428 Style Settings"
+            }
+          },
+          {
+            "id": "8cdcdd4d73026c14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -82,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:daily",
+            "query": "tag:#daily",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -183,7 +207,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "06 - Journal/00 - Daily/20251223.md",
+            "file": "00 - Inbox/202512231428 Style Settings.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -202,7 +226,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "06 - Journal/00 - Daily/20251223.md",
+            "file": "00 - Inbox/202512231428 Style Settings.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -281,20 +305,10 @@
         "state": {
           "type": "footnotes",
           "state": {
-            "file": "06 - Journal/00 - Daily/20251223.md"
+            "file": "00 - Inbox/202512231428 Style Settings.md"
           },
           "icon": "lucide-file-signature",
           "title": "Footnotes"
-        }
-      },
-      {
-        "id": "d23f096823e14314",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
         }
       },
       {
@@ -325,13 +339,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e6bc5d3f85e63b5",
+  "active": "8cdcdd4d73026c14",
   "lastOpenFiles": [
+    "00 - Inbox/202512231428 Style Settings.md",
     "00 - Inbox/202512152226 Conceitos e Vilões.md",
+    "06 - Journal/02 - Monthly Strategy/December 2025.md",
+    "06 - Journal/00 - Daily/20240618.md",
+    "03 - Areas/01 - Habits & Routines/02 - Studys Routine/Studys routine PTA.md",
+    "03 - Areas/03- Relationships/Maria Eduarda Lau - First GF/202509241456 Revelação do TPA.md",
+    "99 - Meta/01 - Vault Systems/WeightOS.md",
+    "08 - Archives/Attatchments/WeightLogo 1.png",
+    "08 - Archives/Attatchments/WeightLogo.png",
+    "08 - Archives/Attatchments/20251214_153711_0000.png",
+    "Desenvolvendo foco e atenção absolutos.md",
+    "03 - Areas/01 - Habits & Routines/01 - Daily Routines/Routine.md",
     "01 - Maps of Content/Como estudar para o Enem.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "04 - Resources/Medias/202509011737 Como estudar para o ENEM - 4.md",
+    "04 - Resources/AI/202506041133 Teorias interessantes da psicologia.md",
+    "05 - Zettelkasten PS/01 - Permanent R/202510142057 Criação de sistemas á metas.md",
+    "05 - Zettelkasten PS/01 - Permanent R/202509241607 Template para personagem de RP.md",
+    "06 - Journal/00 - Daily/20251223.md",
     "04 - Resources/Medias/202509042107 Como estudar Repetição Espaçada com IA.md",
     "06 - Journal/00 - Daily/20251031.md",
-    "06 - Journal/00 - Daily/20251223.md",
     "06 - Journal/00 - Daily/20251101.md",
     "06 - Journal/00 - Daily/20251102.md",
     "06 - Journal/00 - Daily/20251103.md",
@@ -341,28 +372,12 @@
     "06 - Journal/00 - Daily/20251112.md",
     "06 - Journal/00 - Daily/20251116.md",
     "06 - Journal/00 - Daily/20251118.md",
-    "06 - Journal/00 - Daily/20251119.md",
-    "06 - Journal/00 - Daily/20251120.md",
-    "06 - Journal/00 - Daily/20251121.md",
-    "06 - Journal/00 - Daily/20251122.md",
-    "06 - Journal/00 - Daily/20251123.md",
-    "06 - Journal/00 - Daily/20251124.md",
-    "06 - Journal/00 - Daily/20251127.md",
-    "06 - Journal/00 - Daily/20251128.md",
-    "06 - Journal/00 - Daily/20251129.md",
-    "06 - Journal/00 - Daily/20251130.md",
-    "06 - Journal/00 - Daily/20251201.md",
-    "06 - Journal/00 - Daily/20251202.md",
-    "08 - Archives/Attatchments/WeightLogo 1.png",
-    "08 - Archives/Attatchments/WeightLogo.png",
     "WeigthLogo 1.png",
     "20251214_153711_0000 1.png",
     "08 - Archives/Attatchments",
-    "08 - Archives/Attatchments/20251214_153711_0000.png",
     "02 - Projects/01 - END plan - Q/Modules",
     "02 - Projects/01 - END plan - Q/Checklists",
     "08 - Archives/Deprecated Folders",
-    "Untitled.base",
     "03 - Areas/03- Relationships/Eu paralelo - Miguel Nascimento Silva",
     "03 - Areas/06 - Roleplay",
     "08 - Archives/Old Templates",
