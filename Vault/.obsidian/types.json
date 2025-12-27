@@ -24,7 +24,7 @@
     "TQ_show_task_count": "checkbox",
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
-    "Date": "datetime",
+    "Date": "date",
     "": "datetime",
     "Date - Mod": "datetime"
   }

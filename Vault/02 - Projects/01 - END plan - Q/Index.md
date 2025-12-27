@@ -4,7 +4,7 @@ Date - Mod: 2025-10-23T21:46:00
 tags:
   - plan
 ---
-# **Arquétipo**: [[Anton Abbac]]
+# **Arquétipo**: [[02 - Projects/01 - END plan - Q/Anton Abbac]]
 
 ### **Areas**:
 

@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/")
+    order:
+      - file.name
+      - Date
+    sort: []
+    summaries:
+      file.name: Empty
+  - type: table
+    name: View

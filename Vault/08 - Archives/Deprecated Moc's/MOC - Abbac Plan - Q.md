@@ -6,7 +6,7 @@ tags:
 ---
 ## Quem eu quero me tornar?
 
-## [[Anton Abbac]]
+## [[02 - Projects/01 - END plan - Q/Anton Abbac]]
 
 # Mente
 

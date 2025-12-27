@@ -34,12 +34,13 @@
             }
           },
           {
-            "id": "3505431b4baac814",
+            "id": "98590ffcc8163d68",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Inbox/202512231428 Style Settings.md",
+                "file": "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/Anton Abbac - Base RP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,41 +54,31 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "202512231428 Style Settings"
+              "title": "Anton Abbac - Base RP"
             }
           },
           {
-            "id": "3c3dcdd47de6c789",
+            "id": "684687efd33f2e89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "00 - Inbox/202512231428 Style Settings.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/God Knights.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "202512231428 Style Settings"
+              "icon": "lucide-table",
+              "title": "God Knights"
             }
           },
           {
-            "id": "8cdcdd4d73026c14",
+            "id": "7bedfa1f1b02ea4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - AI/Prompts/Untitled.md",
+                "file": "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/Personas/202512241201 Anton Abbac - Nightmare V2.4.1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -102,16 +93,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "202512241201 Anton Abbac - Nightmare V2.4.1"
             }
           },
           {
-            "id": "f8e9e954982fa669",
+            "id": "1237e356653b87f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Journal/00 - Daily/20240618.md",
+                "file": "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/Brainstorm/202512152226 Conceitos Vilões, e enredo adicional.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -126,16 +117,29 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20240618"
+              "title": "202512152226 Conceitos Vilões, e enredo adicional"
             }
           },
           {
-            "id": "268f9ce9237a4dda",
+            "id": "546be68c5c1a81b3",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/God Knights.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "God Knights"
+            }
+          },
+          {
+            "id": "1df68082975defcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Journal/00 - Daily/20251223.md",
+                "file": "06 - Journal/00 - Daily/20251225.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -150,11 +154,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251223"
+              "title": "20251225"
+            }
+          },
+          {
+            "id": "3d12c96f09e29405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Journal/00 - Daily/20251225.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251225"
+            }
+          },
+          {
+            "id": "a687ab4ecdfa566b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Journal/00 - Daily/20251226.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251226"
+            }
+          },
+          {
+            "id": "e3d20d518fbed7c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Journal/00 - Daily/20251227.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251227"
+            }
+          },
+          {
+            "id": "7f7d23d745305f98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Areas/08 - Roleplay/Hellsing RP/Ideas/202512271500 Missão incial.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202512271500 Missão incial"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -288,7 +388,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "99 - Meta/01 - Vault Systems/Journaling System.md",
+            "file": "03 - Areas/08 - Roleplay/Hellsing RP/Ideas/202512271500 Missão incial.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -370,7 +470,7 @@
         }
       }
     ],
-    "currentTab": 7
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,50 +486,50 @@
       "quickadd:QuickAdd": false
     }
   },
-  "active": "268f9ce9237a4dda",
+  "active": "b5dc943d0706f188",
   "lastOpenFiles": [
+    "06 - Journal/00 - Daily/20251227.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Ideas/202512271500 Missão incial.md",
+    "06 - Journal/00 - Daily/20251226.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/God Knights.base",
+    "03 - Areas/08 - Roleplay/Hellsing RP/202512260036 Temas e Ideiais.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Brainstorm/202512152226 Conceitos Vilões, e enredo adicional.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/Anton Abbac - Base.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/202508282222 Anton Abbac - Base RP.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/202512241201 Anton Abbac - Nightmare V1.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Personas",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Brainstorm",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Ideas",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Mainstory/Untitled.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Mainstory",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/202512241201 Anton Abbac - Nightmare V2.4.1.md",
+    "06 - Journal/00 - Daily/20251225.md",
+    "06 - Journal/00 - Daily/20251224.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Ideas/202510152121 Lore dos cavaleiros de Deus.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/202510302348 Anton Abbac Lore.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Character Build.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Checklist Module.md",
+    "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/Untitled.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Outward Build.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) System Module.md",
+    "06 - Journal/00 - Daily/20251223.md",
     "06 - Journal/00 - Daily/20240618.md",
     "00 - Inbox/202512152226 Conceitos e Vilões 1.md",
     "01 - Maps of Content/Como estudar para o Enem.md",
     "00 - Inbox/202512231428 Style Settings.md",
-    "06 - Journal/00 - Daily/20251223.md",
     "09 - AI/Prompts/Untitled.md",
     "09 - AI/Prompts",
     "09 - AI",
-    "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/202512152226 Conceitos e Vilões.md",
     "06 - Journal/02 - Monthly Strategy/December 2025.md",
-    "03 - Areas/01 - Habits & Routines/02 - Studys Routine/Studys routine PTA.md",
-    "03 - Areas/03- Relationships/Maria Eduarda Lau - First GF/202509241456 Revelação do TPA.md",
-    "99 - Meta/01 - Vault Systems/WeightOS.md",
     "08 - Archives/Attatchments/WeightLogo 1.png",
     "08 - Archives/Attatchments/WeightLogo.png",
     "08 - Archives/Attatchments/20251214_153711_0000.png",
-    "Desenvolvendo foco e atenção absolutos.md",
-    "03 - Areas/01 - Habits & Routines/01 - Daily Routines/Routine.md",
     "Untitled.canvas",
     "Untitled.base",
-    "04 - Resources/Medias/202509011737 Como estudar para o ENEM - 4.md",
-    "04 - Resources/AI/202506041133 Teorias interessantes da psicologia.md",
-    "05 - Zettelkasten PS/01 - Permanent R/202510142057 Criação de sistemas á metas.md",
-    "05 - Zettelkasten PS/01 - Permanent R/202509241607 Template para personagem de RP.md",
-    "04 - Resources/Medias/202509042107 Como estudar Repetição Espaçada com IA.md",
-    "06 - Journal/00 - Daily/20251031.md",
-    "06 - Journal/00 - Daily/20251101.md",
-    "06 - Journal/00 - Daily/20251102.md",
-    "06 - Journal/00 - Daily/20251103.md",
-    "06 - Journal/00 - Daily/20251105.md",
-    "06 - Journal/00 - Daily/20251104.md",
-    "06 - Journal/00 - Daily/20251106.md",
-    "06 - Journal/00 - Daily/20251112.md",
     "WeigthLogo 1.png",
     "20251214_153711_0000 1.png",
     "08 - Archives/Attatchments",
     "02 - Projects/01 - END plan - Q/Modules",
-    "02 - Projects/01 - END plan - Q/Checklists",
-    "08 - Archives/Deprecated Folders",
-    "03 - Areas/03- Relationships/Eu paralelo - Miguel Nascimento Silva",
-    "03 - Areas/06 - Roleplay",
-    "08 - Archives/Old Templates",
     "99 - Meta/02 - Flowcharts/Zettelkasten PS.canvas",
     "99 - Meta/Flowcharts/Zettelkasten PS.canvas"
   ]

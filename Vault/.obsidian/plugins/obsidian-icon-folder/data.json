@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDice",
       "SiOpenai",
       "SiOpenaigym",
       "RiAttachment2",
-      "CoFolders",
-      "LiTerminal"
+      "CoFolders"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -137,5 +137,6 @@
   "09 - AI": {
     "iconName": "SiOpenai",
     "iconColor": "#00f7ff"
-  }
+  },
+  "03 - Areas/08 - Roleplay": "LiDice"
 }
