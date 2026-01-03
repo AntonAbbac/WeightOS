@@ -38,6 +38,7 @@
 <img src="./.github/assets/screenshots/Plugin_Overview.png"
 
 Screenshots latest update <b>2025-12-22</b>
+
 </p>
 
 ### 🔹 Layout
@@ -70,42 +71,12 @@ Screenshots latest update <b>2025-12-22</b>
     - 📁 02 - Projects
     - 📁 03 - Areas
     - 📁 04 - Resources
-        - 📁 AI
-        - 📁 Articles
-        - 📁 Books
-        - 📁 Courses
-        - 📁 Medias
-        - 📁 Podcasts
-        - 📁 Wishlist
-    - 📁 05 - Zettelkasten PS
-        - 📁 00 - Fleeting IP
-        - 📁 01 - Permanent R
-        - 📁 02 - Literature Notes PS
-    	    - 📁 AI
-    	    - 📁 Articles
-    	    - 📁 Books
-    	    - 📁 Courses
-    	    - 📁 Medias
-    	    - 📁 Podcasts
+    - 📁 05 - Zettelkasten
     - 📁 06 - Journal
-        - 📁 00 - Daily
-        - 📁 01 - Weekly Plans
-        - 📁 02 - Monthly Strategy
-        - 📁 03 - Annual Mission
     - 📁 07 - People
-        - 📁 00 - Psychologic Profile
     - 📁 08 - Archives
-        - 📁 Attatchments
-        - 📁 Deprecated Foldes
-        - 📁 Deprecated Moc’s
-        - 📁 Deprecated Notes
-        - 📁 Deprecated Projects
-        - 📁 Future Notes
-        - 📁 Old Templates
+    - 📁 09 - AI
     - 📁 99 - Meta
-        - 📁 00 - Templates
-        - 📁 01 - Vault Systems
-        - 📁 02 - Flowcharts
 
 # 🔧 Installation
 
