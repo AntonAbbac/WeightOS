@@ -35,6 +35,7 @@
 <p align="center">
 <img src="./.github/assets/screenshots/Vault_Overview.png"/>
 <img src="./.github/assets/screenshots/Vault_Explorer.png"/>
+<img src="./.github/assets/screenshots/Plugin_Overview.png"
 Screenshots latest update <b>2025-12-22</b>
 </p>
 
