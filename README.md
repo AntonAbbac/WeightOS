@@ -30,7 +30,7 @@
 
 ### 🖼️ Gallery
 
-#### 📱 Mobile
+##### 📱 Mobile
 
 <p align="center">
 <img src="./.github/assets/screenshots/Vault_Overview.png"/>
@@ -132,14 +132,14 @@ Screenshots latest update <b>2025-12-22</b>
 > [!NOTE]
 > It is highly recommended to understand how the vault works before using it.
 
-### 1. **Install Obsidian**
+#### 1. **Install Obsidian**
 
 First, install Obsidian for your specific device.(Windows; Linux; MacOS; Android; etc)
 
 > [!NOTE]
 > Official URL: https://obsidian.md/download
 
-### 2. **Clone the repo**
+#### 2. **Clone the repo**
 
 ```bash
 nix-shell -p git
@@ -150,7 +150,7 @@ cd WeightOS
 > [!NOTE]
 > It is essential that git is already installed on your device to continue.
 
-### 3. **Open the Vault**
+#### 3. **Open the Vault**
 
 Open the WeightOS folder in obsidian and ability the comunnity plugins to start the vault system and enjoy! 😺
 
