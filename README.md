@@ -163,3 +163,10 @@ My efforts is alone, but with a lot of focus.
 ## 📃 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+
+        /\
+       /  \
+      / ▢  \  ≈ Weight.
+     /------\
+    |  |  |  |
+    |________|
