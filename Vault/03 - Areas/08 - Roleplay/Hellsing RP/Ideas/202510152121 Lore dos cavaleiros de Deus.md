@@ -6,8 +6,14 @@ tags:
   - story
   - RP
 ---
-### Funcionamento dos Cavaleiros de Deus:
+## **Origem**
 
+- **Quem são** — Os Cavaleiros de Deus eram uma antiga seita gnóstica, ele buscavam “gnosis”, conhecimento secreto, frequentemente envolvendo magia rituais esotéricos e elementos de filosofias pagãs envolvendo a alma. Esses grupos foram acusados de magia demoníaca pelos pais da Igreja, que os viam como pervertendo o cristianismo. Até se integrarem a um dos módulos de seção da Iscariot Organization como proteção a humanidade.
+
+- **Existência** — Existiram dos séculos I-IV d.C. até a idade média usando a Bíblia para justificar magia e alquimia (transmutação espiritual/material), envolvendo a alma e o espírito.
+
+- **Dissolução**: Foi esquecida e apagada dos registros oficiais do vaticano por representar heresia e busca pelo absolutismo humano.
+### Funcionamento dos Cavaleiros de Deus:
 
 #### Obtenção do título e a manifestação
 

@@ -4,81 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "925274fe8ca7a574",
+        "id": "a0863473a817f674",
         "type": "tabs",
         "children": [
           {
-            "id": "a1422ad5587544be",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Journal/02 - Monthly Strategy/December 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "December 2025"
-            }
-          },
-          {
-            "id": "98590ffcc8163d68",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/Anton Abbac - Base RP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Anton Abbac - Base RP"
-            }
-          },
-          {
-            "id": "684687efd33f2e89",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/God Knights.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "God Knights"
-            }
-          },
-          {
-            "id": "7bedfa1f1b02ea4b",
+            "id": "6f7c5c0797586b5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/Personas/202512241201 Anton Abbac - Nightmare V2.4.1.md",
+                "file": "03 - Areas/08 - Roleplay/Hellsing RP/Personas/Anton Abbac – Agent.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -93,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202512241201 Anton Abbac - Nightmare V2.4.1"
+              "title": "Anton Abbac – Agent"
             }
           },
           {
-            "id": "1237e356653b87f1",
+            "id": "43c2e0f2d1f65812",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/Brainstorm/202512152226 Conceitos Vilões, e enredo adicional.md",
+                "file": "03 - Areas/08 - Roleplay/Hellsing RP/Personas/Anton Abbac – Agent.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -117,29 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202512152226 Conceitos Vilões, e enredo adicional"
+              "title": "Anton Abbac – Agent"
             }
           },
           {
-            "id": "546be68c5c1a81b3",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/God Knights.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "God Knights"
-            }
-          },
-          {
-            "id": "1df68082975defcb",
+            "id": "ef08178099d69113",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Journal/00 - Daily/20251225.md",
+                "file": "06 - Journal/00 - Daily/20260102.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -154,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251225"
+              "title": "20260102"
             }
           },
           {
-            "id": "3d12c96f09e29405",
+            "id": "926c8fff43e3a4f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Journal/00 - Daily/20251225.md",
+                "file": "06 - Journal/00 - Daily/20260101.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -178,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251225"
+              "title": "20260101"
             }
           },
           {
-            "id": "a687ab4ecdfa566b",
+            "id": "86193d0385b1c370",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Journal/00 - Daily/20251226.md",
+                "file": "06 - Journal/00 - Daily/20260101.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -202,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251226"
+              "title": "20260101"
             }
           },
           {
-            "id": "e3d20d518fbed7c2",
+            "id": "3dcb4a45de13389f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Journal/00 - Daily/20251227.md",
+                "file": "06 - Journal/00 - Daily/20260101.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -226,16 +148,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251227"
+              "title": "20260101"
             }
           },
           {
-            "id": "7f7d23d745305f98",
+            "id": "406bd963818a22ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Areas/08 - Roleplay/Hellsing RP/Ideas/202512271500 Missão incial.md",
+                "file": "03 - Areas/08 - Roleplay/Hellsing RP/Personas/202512241201 Anton Abbac - Nightmare V3.0.9.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -250,35 +172,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202512271500 Missão incial"
-            }
-          },
-          {
-            "id": "d93cbaa5c1f54457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Journal/00 - Daily/20251228.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20251228"
+              "title": "202512241201 Anton Abbac - Nightmare V3.0.9"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -412,7 +310,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "03 - Areas/08 - Roleplay/Hellsing RP/Ideas/202512271500 Missão incial.md",
+            "file": "03 - Areas/08 - Roleplay/Hellsing RP/Personas/Anton Abbac – Agent.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -510,39 +408,39 @@
       "quickadd:QuickAdd": false
     }
   },
-  "active": "d93cbaa5c1f54457",
+  "active": "ef08178099d69113",
   "lastOpenFiles": [
+    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/Anton Abbac – Agent.md",
+    "06 - Journal/00 - Daily/20260102.md",
+    "06 - Journal/00 - Daily/20260101.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/202512241201 Anton Abbac - Nightmare V3.0.9.md",
+    "08 - Archives/Deprecated Notes/Personagem Roleplay Hellsing.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/202508282222 Anton Abbac - Base RP.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Ideas/202510152121 Lore dos cavaleiros de Deus.md",
+    "06 - Journal/00 - Daily/20251230.md",
+    "03 - Areas/01 - Habits & Routines/03 - Exercise routine/Full Body Training.md",
+    "06 - Journal/00 - Daily/20251231.md",
     "03 - Areas/08 - Roleplay/Hellsing RP/Ideas/202512271500 Missão incial.md",
-    "06 - Journal/00 - Daily/20251228.md",
-    "06 - Journal/00 - Daily/20251227.md",
-    "06 - Journal/00 - Daily/20251226.md",
     "03 - Areas/08 - Roleplay/Hellsing RP/God Knights.base",
     "03 - Areas/08 - Roleplay/Hellsing RP/202512260036 Temas e Ideiais.md",
     "03 - Areas/08 - Roleplay/Hellsing RP/Brainstorm/202512152226 Conceitos Vilões, e enredo adicional.md",
-    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/Anton Abbac - Base.md",
-    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/202508282222 Anton Abbac - Base RP.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Brainstorm/202510302348 Anton Abbac Lore.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Mainstory/Untitled.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/202512241201 Anton Abbac - Nightmare V2.4.1.md",
     "03 - Areas/08 - Roleplay/Hellsing RP/Personas/202512241201 Anton Abbac - Nightmare V1.md",
+    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/Anton Abbac - Base.md",
+    "06 - Journal/02 - Monthly Strategy/December 2025.md",
+    "Untitled.md",
+    "06 - Journal/00 - Daily/20251225.md",
+    "06 - Journal/00 - Daily/20251229.md",
+    "06 - Journal/00 - Daily/20251228.md",
+    "06 - Journal/00 - Daily/20251227.md",
+    "06 - Journal/00 - Daily/20251226.md",
     "03 - Areas/08 - Roleplay/Hellsing RP/Personas",
     "03 - Areas/08 - Roleplay/Hellsing RP/Brainstorm",
     "03 - Areas/08 - Roleplay/Hellsing RP/Ideas",
-    "03 - Areas/08 - Roleplay/Hellsing RP/Mainstory/Untitled.md",
     "03 - Areas/08 - Roleplay/Hellsing RP/Mainstory",
-    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/202512241201 Anton Abbac - Nightmare V2.4.1.md",
-    "06 - Journal/00 - Daily/20251225.md",
     "06 - Journal/00 - Daily/20251224.md",
-    "03 - Areas/08 - Roleplay/Hellsing RP/Ideas/202510152121 Lore dos cavaleiros de Deus.md",
-    "03 - Areas/08 - Roleplay/Hellsing RP/Personas/202510302348 Anton Abbac Lore.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Character Build.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Checklist Module.md",
-    "03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/Untitled.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Outward Build.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) System Module.md",
-    "06 - Journal/00 - Daily/20251223.md",
-    "06 - Journal/00 - Daily/20240618.md",
-    "00 - Inbox/202512152226 Conceitos e Vilões 1.md",
-    "01 - Maps of Content/Como estudar para o Enem.md",
-    "00 - Inbox/202512231428 Style Settings.md",
-    "09 - AI/Prompts/Untitled.md",
     "09 - AI/Prompts",
     "09 - AI",
     "08 - Archives/Attatchments/WeightLogo 1.png",

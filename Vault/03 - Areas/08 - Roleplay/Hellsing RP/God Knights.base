@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("03 - Areas/06 - Games/Roleplay in Text/Hellsing RP/")
+        - file.inFolder("03 - Areas/08 - Roleplay/Hellsing RP")
     order:
       - file.name
       - Date
