@@ -59,7 +59,7 @@ Screenshots latest update <b>2025-12-22</b>
 |                          | 📖 Plugins                                                                                                                                                                                                                                                                                                                                          |
 | ------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **📓 Core Plugins**      | - Audio Recorder<br>- Backlinks<br>- Bases<br>- Bookmarks<br>- Canvas<br>- Command Palette<br>- Files<br>- Footnotes View<br>- Graph View<br>- Note Composer<br>- Outgoing Links<br>- Outline<br>- Page Preview<br>- Properties View<br>- Quick Switcher<br>- Search<br>- Slash Commands<br>- Slides<br>- Tags View<br>- Word Count<br>- Workspaces |
-| **📚 Community Plugins** | - Calendar<br>- Canvas MindMap<br>- Checklist<br>- Code Styler<br>- Commander<br>- Dataview<br>- File Explorer Note Count<br>- Iconize<br>- Ninja Cursor<br>- Omnisearch<br>- Paste URL into selection<br>- Quick Add<br>- Recent Files<br>- Smart Typography<br>- Tasks<br>- Templater<br>- Text Format<br> - Linter<br> - Style Settings         |
+| **📚 Community Plugins** | - Calendar<br>- Canvas MindMap<br>- Checklist<br>- Code Styler<br>- Commander<br>- Dataview<br>- File Explorer Note Count<br>- Iconize<br>- Ninja Cursor<br>- Omnisearch<br>- Paste URL into selection<br>- Quick Add<br>- Recent Files<br>- Smart Typography<br>- Tasks<br>- Templater<br>- Text Format<br> - Linter<br> - Style Settings          |
 
 ### 🗂️ Folder Structure
 
@@ -132,4 +132,16 @@ cd WeightOS
 > [!NOTE]
 > It is essential that git is already installed on your device to continue.
 
-### 3. \*\*
+### 3. **Open the Vault**
+
+Open the WeightOS folder in obsidian and ability the comunnity plugins to start the vault system and enjoy! 😺
+
+## 👥 Credits
+
+This is a solo project, created for initial and advanced markdown/obsidian users.
+
+My efforts is alone, but with a lot of focus.
+
+## 📃 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
