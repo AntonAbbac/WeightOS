@@ -30,8 +30,8 @@
     "ignoreFilesRegex": ""
   },
   "resize": {
-    "autoResize": true,
-    "widthAutoResize": true,
+    "autoResize": false,
+    "widthAutoResize": false,
     "maxWidth": 500
   },
   "advanced": {

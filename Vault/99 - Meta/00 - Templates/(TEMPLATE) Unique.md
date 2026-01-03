@@ -1,5 +1,0 @@
----
-Date:
-Date - Mod:
-tags:
----

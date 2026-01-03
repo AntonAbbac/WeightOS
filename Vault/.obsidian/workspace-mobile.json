@@ -59,24 +59,10 @@
             "id": "ef08178099d69113",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Resources/AI/202511201801 Manutenção de Canivete.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "202511201801 Manutenção de Canivete"
+              "title": "New tab"
             }
           },
           {
@@ -404,8 +390,7 @@
       "workspaces:Manage workspace layouts": false,
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "quickadd:QuickAdd": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "ef08178099d69113",

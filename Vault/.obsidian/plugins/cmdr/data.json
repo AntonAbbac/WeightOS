@@ -1,5 +1,5 @@
 {
-  "confirmDeletion": false,
+  "confirmDeletion": true,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
@@ -8,30 +8,17 @@
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [
-    {
-      "id": "workspace:toggle-pin",
-      "icon": "lucide-pin",
-      "name": "Toggle pin",
-      "mode": "any"
-    },
-    {
-      "id": "app:delete-file",
-      "icon": "lucide-trash-2",
-      "name": "Delete current file",
-      "mode": "any"
-    }
-  ],
+  "pageHeader": [],
   "macros": [],
   "explorer": [],
   "hide": {
     "statusbar": [],
     "leftRibbon": []
   },
-  "spacing": "8",
+  "spacing": 8,
   "advancedToolbar": {
     "rowHeight": 48,
-    "rowCount": 4,
+    "rowCount": 1,
     "spacing": 0,
     "buttonWidth": 48,
     "columnLayout": false,

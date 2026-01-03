@@ -270,7 +270,7 @@
       "enabled": false
     }
   },
-  "lintOnSave": true,
+  "lintOnSave": false,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "lintOnFileChange": false,
