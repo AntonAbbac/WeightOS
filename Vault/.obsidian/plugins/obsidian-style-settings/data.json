@@ -5,7 +5,6 @@
   "minimal-style@@workspace-background-translucent@@dark": "#81D8E5",
   "minimal-style@@bg3@@dark": "#8461F4",
   "minimal-style@@base@@dark": "#8461F4",
-  "minimal-style@@ui1@@dark": "#81D8E5",
   "minimal-style@@ui2@@dark": "#81D8E5",
   "minimal-style@@ui3@@dark": "#8461F4",
   "minimal-style@@ax1@@dark": "#81D8E5",
@@ -62,5 +61,6 @@
   "minimal-style@@table-row-background-hover@@dark": "#172C3D",
   "minimal-style@@table-lines": false,
   "minimal-style@@col-lines": false,
-  "minimal-style@@minimal-unstyled-tags": true
+  "minimal-style@@minimal-unstyled-tags": true,
+  "minimal-style@@ui1@@dark": "#172C3D"
 }

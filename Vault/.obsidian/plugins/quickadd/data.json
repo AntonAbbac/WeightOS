@@ -1,16 +1,186 @@
 {
-  "choices": [],
-  "inputPrompt": "single-line",
+  "choices": [
+    {
+      "id": "7b7027de-ef92-4fbf-ac3f-746515bc9d15",
+      "name": "📃 Templates",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "74247819-ecfd-4473-8ff0-b160579466d1",
+          "name": "📝 Unique Note",
+          "type": "Template",
+          "command": false,
+          "templatePath": "00 — Meta/Templates/(TEMPLATE) Unique Note.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{DATE:YYYYMMDDHHmm}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "00 - Inbox"
+            ],
+            "chooseWhenCreatingNote": true,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "e7ab758b-997f-4856-b473-60075fbebf2a",
+          "name": "✨ Days",
+          "type": "Multi",
+          "command": false,
+          "choices": [
+            {
+              "id": "ae1f1f11-7bfa-4b1b-8c0e-0c41dc1318be",
+              "name": "📇 Annual Note",
+              "type": "Template",
+              "command": false,
+              "templatePath": "00 — Meta/Templates/(TEMPLATE) Annual Note.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "{{DATE:YYYY}}"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "Personal/Journal/03 - Annual"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            },
+            {
+              "id": "877305d8-85e8-4e80-b5b8-2061e06d6f78",
+              "name": "🗓️ Monthly Note",
+              "type": "Template",
+              "command": false,
+              "templatePath": "00 — Meta/Templates/(TEMPLATE) Monthly Note.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "{{DATE:MMMM YYYY}}"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "Personal/Journal/02 - Monthly"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            },
+            {
+              "id": "1e46a5ad-e4bd-4efd-8fe4-d7e8b5bee172",
+              "name": "📅 Weekly Note",
+              "type": "Template",
+              "command": false,
+              "templatePath": "00 — Meta/Templates/(TEMPLATE) Weekly Note.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "{{DATE:MMMM Do, YYYY}}"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "Personal/Journal/01 - Weekly"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            },
+            {
+              "id": "30b5f2c1-5edc-41f6-8833-cf378172b41b",
+              "name": "☀️ Daily Note",
+              "type": "Template",
+              "command": false,
+              "templatePath": "00 — Meta/Templates/(TEMPLATE) Daily Note.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "{{DATE:YYYYMMDD}}"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "Personal/Journal/00 - Daily"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Nothing",
+              "setFileExistsBehavior": true,
+              "isDndShadowItem": true
+            }
+          ],
+          "collapsed": false
+        }
+      ],
+      "collapsed": false
+    }
+  ],
+  "inputPrompt": "multi-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "00 — Meta/Templates",
   "announceUpdates": "all",
   "version": "2.9.4",
   "globalVariables": {},
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
-  "enableRibbonIcon": false,
+  "enableRibbonIcon": true,
   "showCaptureNotification": true,
-  "showInputCancellationNotification": false,
+  "showInputCancellationNotification": true,
   "enableTemplatePropertyTypes": false,
   "ai": {
     "defaultModel": "Ask me",
@@ -65,7 +235,7 @@
           }
         ],
         "autoSyncModels": false,
-        "modelSource": "modelsDev"
+        "modelSource": "auto"
       },
       {
         "name": "Gemini",
@@ -86,7 +256,7 @@
           }
         ],
         "autoSyncModels": false,
-        "modelSource": "modelsDev"
+        "modelSource": "auto"
       }
     ]
   },

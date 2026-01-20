@@ -12,7 +12,7 @@
     },
     "escape-yaml-special-characters": {
       "enabled": false,
-      "try-to-escape-single-line-arrays": false
+      "try-to-escape-single-line-arrays": true
     },
     "force-yaml-escape": {
       "enabled": false,
@@ -66,7 +66,7 @@
       "date-modified-key": "date modified",
       "date-modified-source-of-truth": "file system",
       "format": "dddd, MMMM Do YYYY, h:mm:ss a",
-      "convert-to-utc": false,
+      "convert-to-utc": true,
       "update-on-file-contents-updated": "never"
     },
     "yaml-title": {
@@ -77,12 +77,12 @@
     "yaml-title-alias": {
       "enabled": false,
       "preserve-existing-alias-section-style": true,
-      "keep-alias-that-matches-the-filename": false,
+      "keep-alias-that-matches-the-filename": true,
       "use-yaml-key-to-keep-track-of-old-filename-or-heading": true,
       "alias-helper-key": "linter-yaml-title-alias"
     },
     "capitalize-headings": {
-      "enabled": false,
+      "enabled": true,
       "style": "Title Case",
       "ignore-case-words": true,
       "ignore-words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript, I",
@@ -96,75 +96,76 @@
       "start-at-h2": false
     },
     "headings-start-line": {
-      "enabled": false
+      "enabled": true
     },
     "remove-trailing-punctuation-in-heading": {
-      "enabled": false,
+      "enabled": true,
       "punctuation-to-remove": ".,;:!。，；：！"
     },
     "footnote-after-punctuation": {
-      "enabled": false
+      "enabled": true
     },
     "move-footnotes-to-the-bottom": {
-      "enabled": false
+      "enabled": true
     },
     "re-index-footnotes": {
-      "enabled": false
+      "enabled": true
     },
     "auto-correct-common-misspellings": {
-      "enabled": false,
+      "enabled": true,
       "ignore-words": "",
       "skip-words-with-multiple-capitals": false,
       "extra-auto-correct-files": []
     },
     "blockquote-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "space"
     },
     "convert-bullet-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "default-language-for-code-fences": {
-      "enabled": false,
+      "enabled": true,
       "default-language": ""
     },
     "emphasis-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "consistent"
     },
     "no-bare-urls": {
-      "enabled": false,
-      "no-bare-uris": false
+      "enabled": true,
+      "no-bare-uris": true
     },
     "ordered-list-style": {
-      "enabled": false,
+      "enabled": true,
       "number-style": "ascending",
-      "list-end-style": "."
+      "list-end-style": ".",
+      "preserve-start": true
     },
     "proper-ellipsis": {
-      "enabled": false
+      "enabled": true
     },
     "quote-style": {
-      "enabled": false,
+      "enabled": true,
       "single-quote-enabled": true,
       "single-quote-style": "''",
       "double-quote-enabled": true,
       "double-quote-style": "\"\""
     },
     "remove-consecutive-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "remove-empty-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "remove-hyphenated-line-breaks": {
-      "enabled": false
+      "enabled": true
     },
     "remove-multiple-spaces": {
-      "enabled": false
+      "enabled": true
     },
     "strong-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
@@ -172,54 +173,54 @@
       "line-break-indicator": "  "
     },
     "unordered-list-style": {
-      "enabled": false,
+      "enabled": true,
       "list-style": "consistent"
     },
     "compact-yaml": {
-      "enabled": false,
-      "inner-new-lines": false
+      "enabled": true,
+      "inner-new-lines": true
     },
     "consecutive-blank-lines": {
-      "enabled": false
+      "enabled": true
     },
     "convert-spaces-to-tabs": {
-      "enabled": false,
+      "enabled": true,
       "tabsize": 4
     },
     "empty-line-around-blockquotes": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-code-fences": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-horizontal-rules": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-math-blocks": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-tables": {
-      "enabled": false
+      "enabled": true
     },
     "heading-blank-lines": {
-      "enabled": false,
+      "enabled": true,
       "bottom": true,
       "empty-line-after-yaml": true
     },
     "line-break-at-document-end": {
-      "enabled": false
+      "enabled": true
     },
     "move-math-block-indicators-to-their-own-line": {
-      "enabled": false
+      "enabled": true
     },
     "paragraph-blank-lines": {
-      "enabled": false
+      "enabled": true
     },
     "remove-empty-lines-between-list-markers-and-checklists": {
       "enabled": false
     },
     "remove-link-spacing": {
-      "enabled": false
+      "enabled": true
     },
     "remove-space-around-characters": {
       "enabled": false,
@@ -229,12 +230,12 @@
       "other-symbols": ""
     },
     "remove-space-before-or-after-characters": {
-      "enabled": false,
+      "enabled": true,
       "characters-to-remove-space-before": ",!?;:).’”]",
       "characters-to-remove-space-after": "¿¡‘“(["
     },
     "space-after-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "space-between-chinese-japanese-or-korean-and-english-or-numbers": {
       "enabled": false,
@@ -242,39 +243,39 @@
       "english-symbols-punctuation-after": "-+'\"([¥$"
     },
     "trailing-spaces": {
-      "enabled": false,
-      "two-space-line-break": false
+      "enabled": true,
+      "two-space-line-break": true
     },
     "add-blockquote-indentation-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "prevent-double-checklist-indicator-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "prevent-double-list-item-indicator-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "proper-ellipsis-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "remove-hyphens-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "remove-leading-or-trailing-whitespace-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "remove-leftover-footnotes-from-quote-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "remove-multiple-blank-lines-on-paste": {
-      "enabled": false
+      "enabled": true
     }
   },
-  "lintOnSave": false,
+  "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
-  "lintOnFileChange": false,
-  "displayLintOnFileChangeNotice": false,
+  "lintOnFileChange": true,
+  "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
   "filesToIgnore": [],
@@ -287,6 +288,6 @@
     "tagArrayStyle": "single-line",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
     "escapeCharacter": "\"",
-    "removeUnnecessaryEscapeCharsForMultiLineArrays": false
+    "removeUnnecessaryEscapeCharsForMultiLineArrays": true
   }
 }

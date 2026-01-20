@@ -1,31 +1,31 @@
 <h1 align="center">
-    <img src="./.github/assets/logo/WeightLogo.png" width="250px" />
-    <br>
-    WeightOS's Vault
-    <br>
-    <img src="./.github/assets/pallet/pallet1.png" width="800px" />
-    <br>
-    "Weight builds foundation"
-    <br>
-    
-  <div align="center">
-      <p></p>
-      <div align="center">
-         <a href="https://github.com/AntonAbbac/WeightOS/">
+  <img src="./.github/assets/logo/WeightLogo.png" width="250px" />
+<br>
+WeightOS's Vault
+<br>
+<img src="./.github/assets/pallet/pallet1.png" width="800px" />
+<br>
+"Weight builds foundation"
+<br>
+
+<div align="center">
+<p></p>
+<div align="center">
+<a href="https://github.com/AntonAbbac/WeightOS/">
 <a href="https://obsidian.md" target="_blank">
-  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Made with Obsidian" />
+<img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Made with Obsidian" />
 </a>
-            <img src="https://img.shields.io/github/repo-size/AntonAbbac/WeightOS?color=B16286&labelColor=282828&style=for-the-badge&logo=github&logoColor=B16286">
-         </a>
-         <a href="https://github.com/AntonAbbac/WeightOS/blob/main/LICENSE">
-            <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=282828&colorB=98971A&logo=unlicense&logoColor=98971A&"/>
-         </a>
-      </div>
-      <br>
-   </div>
-    </h1>
-    
-# Function: 🧠 Second Brain
+<img src="https://img.shields.io/github/repo-size/AntonAbbac/WeightOS?color=B16286&labelColor=282828&style=for-the-badge&logo=github&logoColor=B16286">
+</a>
+<a href="https://github.com/AntonAbbac/WeightOS/blob/main/LICENSE">
+<img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=282828&colorB=98971A&logo=unlicense&logoColor=98971A&" />
+</a>
+</div>
+<br>
+</div>
+</h1>
+
+# Function — 🧠 Second Brain
 ## 🌌 Overview
 
 ### 🖼️ Gallery
@@ -33,95 +33,56 @@
 ##### 📱 Mobile
 
 <p align="center">
-<img src="./.github/assets/screenshots/Vault_Overview.png"/>
-<img src="./.github/assets/screenshots/Vault_Explorer.png"/>
+<img src="./.github/assets/screenshots/Vault_Overview.png" />
+<img src="./.github/assets/screenshots/Vault_Explorer.png" />
 <img src="./.github/assets/screenshots/Plugin_Overview.png"
 
-Screenshots latest update <b>2025-12-22</b>
+Screenshots latest update <b>2026-01-19</b>
 
 </p>
 
 ### 🔹 Layout
 
-### 📖 Future Systems:
+### 📖 Future Systems —
 
-#### [[PARA System]]
+#### Zettelkasten System
 
-#### [[Zettelkasten System]]
+#### ZK PS System
 
-#### [[PS System Zettelkasten]]
+#### Journaling System
 
-#### [[Generic Folder System]]
 
-#### [[Journaling System]]
-
-#### [[Planning PSC System]]
-
-#### [[Moc’s System]]
-
-|                          | 📖 Plugins                                                                                                                                                                                                                                                                                                                                          |
-| ------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **📓 Core Plugins**      | - Audio Recorder<br>- Backlinks<br>- Bases<br>- Bookmarks<br>- Canvas<br>- Command Palette<br>- Files<br>- Footnotes View<br>- Graph View<br>- Note Composer<br>- Outgoing Links<br>- Outline<br>- Page Preview<br>- Properties View<br>- Quick Switcher<br>- Search<br>- Slash Commands<br>- Slides<br>- Tags View<br>- Word Count<br>- Workspaces |
-| **📚 Community Plugins** | - Calendar<br>- Canvas MindMap<br>- Checklist<br>- Code Styler<br>- Commander<br>- Dataview<br>- File Explorer Note Count<br>- Iconize<br>- Ninja Cursor<br>- Omnisearch<br>- Paste URL into selection<br>- Quick Add<br>- Recent Files<br>- Smart Typography<br>- Tasks<br>- Templater<br>- Text Format<br> - Linter<br> - Style Settings          |
+|                          | 📖 Plugins                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **📓 Core Plugins**      | - Audio Recorder<br>- Backlinks<br>- Bases<br>- Bookmarks<br>- Canvas<br>- Command Palette<br>- Files<br>- Footnotes View<br>- Graph View<br>- Outgoing Links<br>- Outline<br>- Page Preview<br>- Properties View<br>- Quick Switcher<br>- Search<br>- Slash Commands<br>- Slides<br>- Tags View<br>- Word Count<br>- Workspaces              |
+| **📚 Community Plugins** | - Animated Cursor<br>- Dataview<br>- Homepage<br>- Longform<br>- Novel Word Count<br>- Excalidraw<br>- Iconize<br>- Linter<br>- Minimal Settings<br>- Style Settings<br>- Omnisearch<br>- QuickAdd<br>- Rainbow Colored Sidebar<br>- Scroller<br>- Tag Wrangler<br>- Templater<br>- Url Into Selection<br> - Writing Goals<br>  |
 
 ### 🗂️ Folder Structure
 
-    - 📁 00 - Inbox
-    - 📁 01 - Maps of content
-    - 📁 02 - Projects
-    - 📁 03 - Areas
-    - 📁 04 - Resources
-    - 📁 05 - Zettelkasten
-    - 📁 06 - Journal
-    - 📁 07 - People
-    - 📁 08 - Archives
-    - 📁 09 - AI
-    - 📁 99 - Meta
-
-### 🗂️ Future Folder Structure
-
-    - 📁 00 - Inbox
-    - 📁 01 - Maps of content
-    - 📁 02 - Projects
-    - 📁 03 - Areas
-    - 📁 04 - Resources
-    	- 📁 AI
-    	- 📁 Articles
-    	- 📁 Books
-    	- 📁 Courses
-    	- 📁 Medias
-    	- 📁 Podcasts
-    	- 📁 Wishlist
-    - 📁 05 - Zettelkasten PS
-    	- 📁 00 - Fleeting IP
-    	- 📁 01 - Permanent R
-    	- 📁 02 - Literature Notes PS
-    		- 📁 AI
-    		- 📁 Articles
-    		- 📁 Books
-    		- 📁 Courses
-    		- 📁 Medias
-    		- 📁 Podcasts
-    - 📁 06 - Journal
-    	- 📁 00 - Daily
-    	- 📁 01 - Weekly Plans
-    	- 📁 02 - Monthly Strategy
-    	- 📁 03 - Annual Mission
-    - 📁 07 - People
-    	- 📁 00 - Psychologic Profile
-    - 📁 08 - Archives
-    	- 📁 Attatchments
-    	- 📁 Deprecated Foldes
-    	- 📁 Deprecated Moc’s
-    	- 📁 Deprecated Notes
-    	- 📁 Deprecated Projects
-    	- 📁 Future Notes
-    	- 📁 Old Templates
-    - 📁 09 - AI
-    - 📁 99 - Meta
-    	- 📁 00 - Templates
-    	- 📁 01 - Vault Systems
-    	- 📁 02 - Flowcharts
+- 📁 00 — Inbox
+- 📁 00 — Meta
+	- 📁 Archives
+		- 📁 Attachments
+	- 📁 Templates
+	- 📁 Vault Systems
+- 📁 AI
+	- 📁 ChatGPT
+		- 📁 Prompts
+- 📁 Clippings
+- 📁 Courses
+- 📁 Personal
+	- 📁 Areas
+	- 📁 Journal
+		- 📁 00 - Daily
+		- 📁 01 - Weekly
+		- 📁 02 - Monthly
+		- 📁 03 - Annual
+- 📁 Workspace
+	- 📁 Projects
+	- 📁 ZK PS
+		- 📁 Fleeting IP
+		- 📁 Permanent R
+		- 📁 Literature PS
 
 # 🔧 Installation
 

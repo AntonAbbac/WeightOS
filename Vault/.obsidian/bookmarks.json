@@ -1,31 +1,3 @@
 {
-  "items": [
-    {
-      "type": "group",
-      "ctime": 1760485906031,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1760485896504,
-          "path": "08 - Archives/Deprecated Notes/Routine 1.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1760485938901,
-          "path": "03 - Areas/01 - Habits & Routines/02 - Studys Routine/Studys routine PTA.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1760485955020,
-          "path": "03 - Areas/01 - Habits & Routines/03 - Exercise routine/Daily Training.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1760486069368,
-          "path": "03 - Areas/01 - Habits & Routines/04 - Daily rituals/Personal system at school.md"
-        }
-      ],
-      "title": "Daily"
-    }
-  ]
+  "items": []
 }

@@ -9,8 +9,15 @@
     "Colored Sidebar Items - Voxel",
     "Periodic Note Themes - Review",
     "Periodic Note Themes",
-    "Daily Note Themes - Voxel"
+    "Daily Note Themes - Voxel",
+    "Rainbown_name",
+    "Cornell",
+    "type"
   ],
   "accentColor": "#00ffff",
-  "baseFontSize": 16
+  "baseFontSize": 15,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Inter",
+  "baseFontSizeAction": false
 }

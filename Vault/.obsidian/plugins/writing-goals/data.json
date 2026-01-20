@@ -1,0 +1,28 @@
+{
+  "showGoalMessage": true,
+  "showInFileExplorer": true,
+  "showGoalOnCreateAndUpdate": true,
+  "noteGoals": [],
+  "folderGoals": [],
+  "goalLeaves": [],
+  "customGoalFrontmatterKey": "word-goal",
+  "customDailyGoalFrontmatterKey": "daily-word-goal",
+  "goalUpdateTime": 1,
+  "enableCsvExport": false,
+  "csvExportFileName": "writing-goals-history.csv",
+  "showSingleGoalView": false,
+  "showProgressChart": false,
+  "excludeComments": true,
+  "excludeCodeBlocks": true,
+  "allowNegativeGoalProgress": false,
+  "enableCustomColors": false,
+  "customColors": {
+    "goalColor": "var(--interactive-accent)",
+    "dailyGoalColor": "var(--text-warning)",
+    "textColor": "var(--text-normal)",
+    "backgroundColor": "var(--background-primary)",
+    "successColor": "var(--background-modifier-success)"
+  },
+  "defaultSprintGoalCount": 500,
+  "defaultSprintMinutes": 25
+}
