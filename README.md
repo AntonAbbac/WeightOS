@@ -173,12 +173,3 @@ See the LICENSE file for details.
 
 
 ---
-
-    /\ 
-   /  \
-  / ▢  \   ≈ Weight
- /------\
-|  |  | |
-|________|
-
----
