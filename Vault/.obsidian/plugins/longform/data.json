@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "Workspace/Books/Anton's Pain/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2026-01-20T03:24:31.461Z",
+      "total": 1516,
+      "drafts": {
+        "Workspace/Books/Anton's Pain/Index.md": {
+          "total": 1516,
+          "scenes": {
+            "Amor": 0,
+            "1 - The Village": 932,
+            "2 - Tortura traumática": 290,
+            "3 - Descanso": 294
+          }
+        },
+        "Workspace/Books/Anton's Pain/Anton's Pain/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2026-01-19T15:49:33.271Z",
+      "total": 0,
+      "drafts": {
+        "03 - Areas/08 - Writing/Anton's Pain/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Personal/03 - Areas/08 - Writing/Anton's Pain/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Personal/Areas/08 - Writing/Anton's Pain/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Workspace/Books/Anton's Pain/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 1000,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": true,
+  "sceneTemplate": "00 — Meta/Templates/(TEMPLATE) Scene.md",
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

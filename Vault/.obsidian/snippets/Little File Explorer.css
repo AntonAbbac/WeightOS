@@ -1,0 +1,85 @@
+/* file-explorer-tweaks.css */
+/* Snippets from Abecedarium theme that make file explorer and tree views appear tiny */
+
+/* ==== File Explorer: Smaller Fonts & Line Height for File/Folder Names ==== */
+.nav-file-title,
+.nav-folder-title {
+  font-size: 13px !important; /* Primary cause of tiny text for files/folders */
+  line-height: 15px !important; /* Contributes to compact vertical spacing */
+  cursor: pointer;
+  position: relative;
+  border-width: 1px !important;
+  border-style: solid;
+  border-color: transparent;
+  border-image: initial;
+  border-radius: 0px;
+  padding: 1px 14px 0px 30px !important; /* Small padding contributes to compact feel */
+}
+
+/* ==== File Explorer: Vault Name Font Size ==== */
+.nav-folder.mod-root > .nav-folder-title {
+  font-size: 14px !important; /* Small font for the main vault title */
+  /*font-weight: bolder;*/
+  top: -.25em;
+  padding-top: 0.5em !important;
+  cursor: default;
+  /*justify-content: center;*/
+}
+
+/* ===== Smaller View Actions Icons (often in headers of sidebars like file explorer) ===== */
+.view-action > svg {
+    width : 15px !important; /* Tiny icon width */
+    height : 15px !important; /* Tiny icon height */
+}
+.view-header-icon > svg {
+    width : 15px !important; /* Tiny icon width */
+    height : 15px !important; /* Tiny icon height */
+}
+.workspace-tab-header-inner-icon > svg {
+    width : 15px !important; /* Tiny icon width */
+    height : 15px !important; /* Tiny icon height */
+}
+
+/* ===== Tree Item Icons (Expand/Collapse Triangles) ===== */
+/* Affects all tree views, including file explorer folders, tag pane, outline, etc. */
+body:not(.no-svg-replace) .tree-item-self .tree-item-icon > svg.right-triangle {
+    height: 11px !important; /* Very small triangle icon */
+    width: 11px !important;  /* Very small triangle icon */
+    fill: var(--text-muted) !important;
+    margin-top: -4px !important;
+}
+
+/* ===== Tag Pane: Font Sizes (another common tree view) ===== */
+.tag-pane-tag {
+	font-size: 13px; /* Small font for tags */
+}
+
+.tag-pane-tag-count {
+    /*top: 3px;*/
+    /*right: 10px;*/
+    font-size: 0.9em; /* Small relative font size for tag counts */
+    background-color: var(--background-secondary-alt);
+    line-height: 1.3em;
+    border-radius: 3px;
+    padding: 2px 4px;
+}
+
+/* ===== Backlink/Outline Pane: Smaller Fonts (often in sidebars with tree views) ===== */
+.side-dock-collapsible-section-header {
+	font-size: 12px; /* Very small font for section headers (e.g., "Backlinks") */
+	padding: 3px 14px 0 34px;
+	user-select: none;
+	cursor: pointer;
+	position: relative;
+}
+.search-result-file-matches { /* Text within search results, often in backlinks pane */
+	color: var(--text-muted);
+	font-size: 12px; /* Very small font for match text */
+	line-height: 20px;
+	margin-bottom: 5px;
+	padding: 2px 0;
+}
+
+/* Note: Some padding and margin rules also contribute to the overall compact feel,
+   but the font-size, line-height, and icon width/height are the primary drivers
+   for elements appearing "tiny". */

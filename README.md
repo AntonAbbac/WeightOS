@@ -1,134 +1,184 @@
-<h1 align="center">
+ <h1 align="center">
   <img src="./.github/assets/logo/WeightLogo.png" width="250px" />
-<br>
-WeightOS's Vault
-<br>
-<img src="./.github/assets/pallet/pallet1.png" width="800px" />
-<br>
-"Weight builds foundation"
-<br>
+  <br><br>
+  WeightOS Vault
+  <br>
+  <img src="./.github/assets/pallet/pallet1.png" width="800px" />
+  <br><br>
+  <em>“Weight builds foundation”</em>
+  <br><br>
 
-<div align="center">
-<p></p>
-<div align="center">
-<a href="https://github.com/AntonAbbac/WeightOS/">
-<a href="https://obsidian.md" target="_blank">
-<img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Made with Obsidian" />
-</a>
-<img src="https://img.shields.io/github/repo-size/AntonAbbac/WeightOS?color=B16286&labelColor=282828&style=for-the-badge&logo=github&logoColor=B16286">
-</a>
-<a href="https://github.com/AntonAbbac/WeightOS/blob/main/LICENSE">
-<img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=282828&colorB=98971A&logo=unlicense&logoColor=98971A&" />
-</a>
-</div>
-<br>
-</div>
+  <a href="https://obsidian.md" target="_blank">
+    <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/github/repo-size/AntonAbbac/WeightOS?style=for-the-badge&color=483699" />
+  <a href="https://github.com/AntonAbbac/WeightOS/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-98971A?style=for-the-badge" />
+  </a>
 </h1>
 
-# Function — 🧠 Second Brain
+---
+
+## 🧠 Function  
+**Second Brain / Knowledge & Writing OS**
+
+---
+
 ## 🌌 Overview
 
-### 🖼️ Gallery
+**WeightOS** is a structured **second brain operating system** built on **Obsidian**.  
+It is designed to support:
 
-##### 📱 Mobile
+- long-term thinking  
+- atomic knowledge (Zettelkasten)  
+- structured journaling  
+- serious writing and books  
+- low-friction daily use  
+
+This is **not just a vault**.  
+It is a system built around **information flow**, not folders or topics.
+
+---
+
+## 🖼️ Gallery
+
+### Desktop & Mobile
 
 <p align="center">
-<img src="./.github/assets/screenshots/Vault_Overview.png" />
-<img src="./.github/assets/screenshots/Vault_Explorer.png" />
-<img src="./.github/assets/screenshots/Plugin_Overview.png"
-
-Screenshots latest update <b>2025-12-22</b>
-
+  <img src="./.github/assets/screenshots/Vault_Overview.png" />
+  <img src="./.github/assets/screenshots/Vault_Explorer.png" />
+  <img src="./.github/assets/screenshots/Plugin_Overview.png" />
 </p>
 
-### 🔹 Layout
+<sub>Screenshots — latest update: <b>2026-01-21</b></sub>
 
-### 📖 Future Systems —
+---
 
-#### PARA System
+## 🔹 Layout
 
-#### Zettelkasten System
+### 📖 Vault Systems
 
-#### PS System Zettelkasten
+- **Zettelkasten**  
+- **ZK PS System**  
+- **Journaling System**
 
-#### Journaling System
+### 📖 Plugins
+
+- 📓 Core Plugins  
+- 📚 Community Plugins  
+
+(See full lists inside the vault documentation.)
+
+---
+
+## 🗂️ Folder Structure
+
+WeightOS
+
+- 📁 00 — Inbox
+- 📁 00 — Meta
+  - 📁 Archives
+  - 📁 Attachments
+	- 📁 Templates
+	- 📁 Vault Guides
+	- 📁 Vault Systems
+- 📁 AI
+  - 📁 ChatGPT
+    - 📁 Prompts
+    - 📁 Resources to Fill
+    - 📁 System Prompts
+    - 📁 Worst Answer
+- 📁 Clippings
+- 📁 Courses
+- 📁 Personal
+    - 📁 Areas
+    - 📁 Journal
+      - 📁 00 — Daily
+      - 📁 01 — Weekly
+      - 📁 02 — Monthly
+      - 📁 03 — Annual
+- 📁 Workspace
+    - 📁 Projects
+    - 📁 ZK PS
+     - 📁 Fleeting IP
+     - 📁 Literature PS
+     - 📁 Permanent R
 
 
-|                          | 📖 Plugins                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **📓 Core Plugins**      | - Audio Recorder<br>- Backlinks<br>- Bases<br>- Bookmarks<br>- Canvas<br>- Command Palette<br>- Files<br>- Footnotes View<br>- Graph View<br>- Note Composer<br>- Outgoing Links<br>- Outline<br>- Page Preview<br>- Properties View<br>- Quick Switcher<br>- Search<br>- Slash Commands<br>- Slides<br>- Tags View<br>- Word Count<br>- Workspaces              |
-| **📚 Community Plugins** | - Advanced Canvas<br>- Advanced Tables<br>- Calendar<br>- Code Styler<br>- Commander<br>- Dataview<br>- File Explorer Note Count<br>- Homepage<br>- Iconize<br>- Linter<br>- Ninja Cursor<br>- Omnisearch<br>- Paste URL into selection<br>- QuickAdd<br>- Style Settings<br>- Tag Wrangler<br>- Templater<br> - Various Complements<br>  |
+---
 
-### 🗂️ Folder Structure
+🔧 Installation
 
-    - 📁 00 - Inbox
-    - 📁 01 - Maps of content
-    - 📁 02 - Projects
-    - 📁 03 - Areas
-    - 📁 04 - Resources
-    - 📁 05 - Zettelkasten PS
-    	- 📁 00 - Fleeting IP
-    	- 📁 01 - Permanent R
-    	- 📁 02 - Literature Notes PS
-    - 📁 06 - Journal
-    	- 📁 00 - Daily Notes
-    	- 📁 01 - Weekly Notes
-    	- 📁 02 - Monthly Notes
-    	- 📁 03 - Annual Notes
-    - 📁 07 - Archives
-    	- 📁 Attatchments
-    - 📁 08 - AI
-      - 📁 ChatGPT
-        - 📁 Prompts
-    - 📁 99 - Meta
-    	- 📁 00 - Templates
-    	- 📁 01 - Vault Systems
-    	- 📁 02 - Flowcharts
+> ⚠️ CAUTION
+Before using this vault, take time to understand its systems and information cycle.
+This will reduce confusion and unnecessary questions.
 
-# 🔧 Installation
 
-> [!CAUTION]
-> Before installing and using the vault system, try to understand how its systems and information cycle works to minimize questions and find answers.
-> I am not responsible for any installation or configuration difficulties.
 
-> [!NOTE]
-> It is highly recommended to understand how the vault works before using it.
+> ℹ️ NOTE
+This vault is recommended for users with basic to advanced Obsidian knowledge.
 
-#### 1. **Install Obsidian**
 
-First, install Obsidian for your specific device.(Windows; Linux; MacOS; Android; etc)
 
-> [!NOTE]
-> Official URL: https://obsidian.md/download
 
-#### 2. **Clone the repo**
+---
 
-```bash
-nix-shell -p git
-https://github.com/AntonAbbac/WeightOS
+1. Install Obsidian
+
+Download Obsidian for your platform:
+Windows · Linux · macOS · Android · iOS
+
+🔗 https://obsidian.md/download
+
+
+---
+
+2. Clone the Repository
+
+Make sure git is installed on your system.
+
+git clone https://github.com/AntonAbbac/WeightOS.git
 cd WeightOS
-```
 
-> [!NOTE]
-> It is essential that git is already installed on your device to continue.
 
-#### 3. **Open the Vault**
+---
 
-Open the WeightOS folder in obsidian and ability the comunnity plugins to start the vault system and enjoy! 😺
+3. Open the Vault
 
-## 👥 Credits
+Open the WeightOS folder in Obsidian
 
-This is a solo project, created for initial and advanced markdown/obsidian users.
+Enable Community Plugins
 
-My efforts is alone, but with a lot of focus.
+Reload the vault
 
-## 📃 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+The system is now ready to use.
 
-        /\
-       /  \
-      / ▢ \  ≈ Weight.
-     /------\
-    |  |  |  |
-    |________|
+
+---
+
+👥 Credits
+
+This is a solo project, created for both intermediate and advanced Obsidian users.
+
+Designed, structured, and maintained with focus and intention.
+
+
+---
+
+📃 License
+
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+
+
+---
+
+	    /\ 
+     /  \
+    / ▢  \   ≈ Weight
+   /------\
+   |  |  | |
+   |________|
+
+---

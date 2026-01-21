@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2f1d0bf11409fcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc254619ef48278e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 — Meta/Vault Systems/WeightOS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "WeightOS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b611c63c6cc17eb6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5f82b4c623db1ecf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "882ac65cc1faccff",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "\\",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d82c8a3bde0370bf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "2f71fc22edd07947",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "6e49ffba39aef8f2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "1ead3a76eb21d1bf",
+        "type": "leaf",
+        "state": {
+          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+          "state": {},
+          "icon": "longform",
+          "title": "Longform"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f34640bdb395f896",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2b272c314a8fc517",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Personal/Journal/00 - Daily/20260120.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6b8e706733888c80",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "03 - Areas/08 - Writing/Anton's Pain/Scenes/Amor.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "49a0ab1e714b16a1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "00 — Meta/Vault Systems/WeightOS.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "quickadd:QuickAdd": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "bc254619ef48278e",
+  "lastOpenFiles": [
+    "00 — Meta/Vault Guides/Vault Plugins.md",
+    "00 — Meta/Vault Systems/WeightOS.md",
+    "00 — Meta/Vault Guides/Vault Folder Structure.md",
+    "00 — Meta/Vault Guides",
+    "00 — Meta/Vault Guides1768960637976/Vault Folder Structure.md",
+    "00 — Meta/Vault Guides1768960637976/Vault Plugins.md",
+    "00 — Meta/Vault Guides1768960637976",
+    "AI/ChatGPT/Worst answer/Worst answer",
+    "AI/ChatGPT/Worst answer/System prompts",
+    "AI/ChatGPT/Worst answer/Resources to fill/202506041133 Teorias interessantes da psicologia.md",
+    "AI/ChatGPT/Worst answer/Resources to fill/202506051731 Duas maneiras de fazer um plano.md",
+    "AI/ChatGPT/Worst answer/Resources to fill/202508291940 Como praticar leitura ativa.md",
+    "AI/ChatGPT/Worst answer/Resources to fill/202511201801 Manutenção de Canivete.md",
+    "AI/ChatGPT/Worst answer/Resources to fill/202504191543 Hábitos militares.md",
+    "AI/ChatGPT/Worst answer/Resources to fill",
+    "AI/ChatGPT/Worst answer",
+    "AI/ChatGPT/System prompts",
+    "AI/ChatGPT/Resources to fill/202506041133 Teorias interessantes da psicologia.md",
+    "AI/ChatGPT/Resources to fill/202506051731 Duas maneiras de fazer um plano.md",
+    "AI/ChatGPT/Resources to fill/202508291940 Como praticar leitura ativa.md",
+    "AI/ChatGPT/Resources to fill/202511201801 Manutenção de Canivete.md",
+    "AI/ChatGPT/Resources to fill/202504191543 Hábitos militares.md",
+    "AI/ChatGPT/Resources to fill",
+    "Workspace/Projects/WeightOS/Logs/202601202059 Documentation.md",
+    "00 — Inbox/202601110157 Anime filme.md",
+    "00 — Meta/Vault guides/Vault Folder Structure.md",
+    "00 — Meta/Vault guides/Vault Plugins.md",
+    "Personal/Journal/00 - Daily/20260120.md",
+    "00 — Meta/Vault Systems/Zettelkasten System.md",
+    "00 — Meta/Vault Systems/ZK PS System.md",
+    "00 — Meta/Vault Systems/Journaling System.md",
+    "Workspace/Projects/WeightOS/Logs",
+    "Workspace/Projects/WeightOS",
+    "00 — Meta/Attatchments/pallet1.png",
+    "AI/ChatGPT/Prompts/Ankicards with AI.md",
+    "Workspace/ZK PS/Fleeting IP/202601122156 A transcrição de linguagem pessoal para pedagógica é possível.md",
+    "Clippings/Medias/202509042107 Repetição Espaçada com IA.md",
+    "Meta/07 - Archives/Attatchments/WeightLogo 2.png",
+    "Meta/07 - Archives/Attatchments/WeightLogo 1.png",
+    "Meta/02 - Flowcharts/Zettelkasten PS.canvas"
+  ]
+}

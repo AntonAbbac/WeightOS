@@ -1,0 +1,25 @@
+.linked-chart-container svg {
+    width: 100%;
+    height: auto;
+}
+
+.tiny-linked-charts-value {
+    text-align: center;
+}
+
+.stats-detail svg {
+    width: 100%;
+    height: auto;
+    padding: 0 !important;
+}
+
+.stats-detail-item h3 {
+    text-align: left !important;
+}
+
+.svg-icon.writing-goals-radar {
+    color: var(--icon-color);
+    fill: transparent;
+    opacity: var(--icon-opacity);
+    stroke: var(--icon-color);
+}

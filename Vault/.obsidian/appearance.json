@@ -1,0 +1,23 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "Runescape - Voxel",
+    "Notebook Backgrounds - Voxel",
+    "Minecraft - Voxel",
+    "Japanese fonts - Voxel",
+    "Colored Sidebar Items - Voxel",
+    "Periodic Note Themes - Review",
+    "Periodic Note Themes",
+    "Daily Note Themes - Voxel",
+    "Rainbown_name",
+    "Cornell",
+    "type"
+  ],
+  "accentColor": "#00ffff",
+  "baseFontSize": 15,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Inter",
+  "baseFontSizeAction": false
+}

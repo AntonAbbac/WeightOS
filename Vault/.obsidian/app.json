@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [],
+  "promptDelete": false,
+  "readableLineLength": true,
+  "trashOption": "local",
+  "showInlineTitle": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 — Inbox",
+  "attachmentFolderPath": "00 — Meta/Archives/Attatchments"
+}
