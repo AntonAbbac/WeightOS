@@ -47,7 +47,6 @@ It is a system built around **information flow**, not folders or topics.
 <p align="center">
   <img src="./.github/assets/screenshots/Vault_Overview.png" />
   <img src="./.github/assets/screenshots/Vault_Explorer.png" />
-  <img src="./.github/assets/screenshots/Plugin_Overview.png" />
 </p>
 
 <sub>Screenshots — latest update: <b>2026-01-21</b></sub>
@@ -100,9 +99,9 @@ WeightOS
 - 📁 Workspace
     - 📁 Projects
     - 📁 ZK PS
-     - 📁 Fleeting IP
-     - 📁 Literature PS
-     - 📁 Permanent R
+      - 📁 Fleeting IP
+      - 📁 Literature PS
+      - 📁 Permanent R
 
 
 ---
