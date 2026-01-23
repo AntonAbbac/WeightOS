@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0944fb15a3af6f97",
+        "id": "6c333efc687a94a6",
         "type": "tabs",
         "children": [
           {
-            "id": "0583e3047e303c5d",
+            "id": "31d386fd562108aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 — Meta/Vault Guides/Vault Plugins.md",
-                "mode": "source",
+                "file": "00 — Meta/Vault Systems/WeightOS.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vault Plugins"
+              "title": "WeightOS"
             }
           }
         ]
@@ -204,22 +204,22 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0583e3047e303c5d",
+  "active": "31d386fd562108aa",
   "lastOpenFiles": [
+    "00 — Meta/Vault Systems/WeightOS.md",
+    "00 — Meta/Templates/(TEMPLATE) Permanent R.md",
+    "00 — Meta/Templates/(TEMPLATE) Literature Note PS.md",
+    "00 — Meta/Templates/(TEMPLATE) Fleeting IP.md",
+    "00 — Meta/Templates/(TEMPLATE) Daily Note.md",
+    "00 — Meta/Vault Guides/Vault Plugins.md",
     "00 — Meta/Vault Guides/Vault Folder Structure.md",
     "00 — Meta/Vault Guides/Simple Structure to Writing Books.md",
-    "00 — Meta/Vault Systems/WeightOS.md",
-    "Personal/Journal/Calendar.base",
     "00 — Meta/Vault Systems/ZK PS System.md",
     "00 — Meta/Vault Systems/Zettelkasten System.md",
     "00 — Meta/Vault Systems/Journaling System.md",
-    "00 — Meta/Vault Guides/Vault Plugins.md",
+    "Personal/Journal/Calendar.base",
     "00 — Meta/Templates/(TEMPLATE) Unique Note.md",
     "00 — Meta/Templates/(TEMPLATE) Scene.md",
-    "00 — Meta/Templates/(TEMPLATE) Permanent R.md",
-    "00 — Meta/Templates/(TEMPLATE) Literature Note PS.md",
-    "00 — Meta/Templates/(TEMPLATE) Daily Note.md",
-    "00 — Meta/Templates/(TEMPLATE) Fleeting IP.md",
     "Untitled",
     "Personal/Journal/Daily/20260122.md",
     "Personal/Journal/Daily/Untitled.md",
