@@ -8,11 +8,13 @@
     "Japanese fonts - Voxel",
     "Colored Sidebar Items - Voxel",
     "Periodic Note Themes - Review",
-    "Periodic Note Themes",
     "Daily Note Themes - Voxel",
     "Rainbown_name",
     "Cornell",
-    "type"
+    "type",
+    "Periodic Note Themes",
+    "Daily Note",
+    "Icons and folders"
   ],
   "accentColor": "#00ffff",
   "baseFontSize": 15,

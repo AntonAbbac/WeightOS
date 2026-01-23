@@ -1,13 +1,11 @@
 ---
-date: 2025-08-07T20:42:00
-modified: 2026-01-19T22:10:00
+created: 2025-08-07T20:42:00
+modified: 2026-01-22T21:46:00
 tags:
   - system
-template_type: system
-template_version: "2.0"
 ---
 
-# Zettelkasten PS System
+# 🗃️ Zettelkasten PS System
 
 The **PS System (Problem Solver)** is a complementary methodology integrated into the traditional Zettelkasten.  
 It does not replace the original system. Instead, it **extends it** by introducing a structured, problem-oriented cycle that operates in parallel with standard Zettelkasten notes.
@@ -16,7 +14,7 @@ Conceptually, the PS System merges the classical Zettelkasten workflow with a pe
 
 ---
 
-## 1. Fleeting IP (Initial Problem)
+## 1. 🗒️ Fleeting IP (Initial Problem)
 
 This stage introduces a **dual-purpose capture layer**.
 
@@ -37,7 +35,7 @@ These notes are intentionally incomplete and are meant to be revisited later.
 
 ---
 
-## 2. Literature PS (Possible Solution)
+## 2. ✉️ Literature PS (Possible Solution)
 
 This stage mirrors the traditional **Literature Note**, but with a different intent.
 
@@ -62,7 +60,7 @@ Each Literature PS note should include:
 
 ---
 
-## 3. Permanent R (Resolution)
+## 3. 🗄️ Permanent R (Resolution)
 
 This stage corresponds to **Permanent Notes** in the traditional Zettelkasten, but with an added semantic layer.
 
@@ -87,7 +85,7 @@ These notes form a **network of resolved problems**, reusable across contexts.
 
 ---
 
-## Tagging Strategy
+## 📎 Tagging Strategy
 
 The PS System follows the same tagging philosophy as the traditional Zettelkasten, with a small semantic extension.
 
@@ -107,7 +105,7 @@ This preserves compatibility while enabling precise filtering and querying.
 
 ---
 
-## System Compatibility
+## 🔧 System Compatibility
 
 The **PS System Kasten** is designed to integrate seamlessly with the original Zettelkasten.
 
@@ -123,3 +121,5 @@ Together, both systems create a **hybrid knowledge environment** where:
 
 This version represents the **foundational model** of the PS System.  
 If needed, it can evolve further or be extracted into a standalone methodology without compromising the original vault structure.
+
+---

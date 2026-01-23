@@ -1,11 +1,9 @@
 ---
-date: 2025-12-14T14:57:00
-modified: 2025-12-15T11:37:00
+created: 2025-12-14T14:57:00
+modified: 2026-01-22T21:45:00
 tags:
   - permanent
   - system
-template_type: system
-template_version: "2.0"
 ---
 
 # **WeightOS**
@@ -17,10 +15,10 @@ template_version: "2.0"
 > **Weight builds foundation.**  
 > A structured second brain for thinking, writing, and execution.
 
-## Overview
+## 🔷 Overview
 
 **Name:** WeightOS — Prime  
-**Size:** ~60 MB  
+**Size:** ~70 MB  
 **Function:** Second Brain System
 
 WeightOS is a **modular knowledge and writing operating system** built on Obsidian.  
@@ -31,7 +29,7 @@ It is a system you **operate**.
 
 ---
 
-## Core Systems
+## 📃 Core Systems
 
 These systems form the conceptual backbone of the vault:
 
@@ -46,19 +44,20 @@ These systems form the conceptual backbone of the vault:
 
 ---
 
-## Guides & Documentation
+## 📑 Guides & Documentation
 
 Everything that explains _how_ the vault works lives here:
 
 - **[[Vault Plugins]]**
 - **[[Vault Folder Structure]]**
+- **[[Simple Structure to Writing Books]]**
 
 These are reference documents.  
 You read them once, then return only when refining the system.
 
 ---
 
-## Plugin Architecture (Summary)
+## 🧲 Plugin Architecture (Summary)
 
 The vault relies on a **curated plugin stack**, divided into:
 
@@ -70,8 +69,8 @@ Native Obsidian functionality for navigation, structure, and writing.
 
 Extended capabilities for:
 
-- automation (QuickAdd, Templater)
-- data querying (Dataview)
+- automation (Unique Note, Templater)
+- data querying (Bases)
 - long-form writing (Longform, Writing Goals)
 - interface control (Minimal, Style Settings)
 
@@ -81,7 +80,7 @@ Extended capabilities for:
 
 ---
 
-## Folder Architecture (Summary)
+## 🗂️ Folder Architecture (Summary)
 
 The vault is organized by **information state**, not topic.
 
@@ -96,7 +95,7 @@ You follow the flow.
 
 ---
 
-# Vault Usage Guide
+# 📖 Vault Usage Guide
 
 ## 1. How to Start (Recommended Order)
 
@@ -112,25 +111,15 @@ To use WeightOS correctly, follow this order **without skipping steps**.
 
 ---
 
-### 2️⃣ Use QuickAdd as the Entry Point
+### 2️⃣ Use Unique Note as the Entry Note
 
-QuickAdd is the **main interface** of WeightOS.
+Unique Note is the **main interface** of WeightOS.
 
 It is used to create:
 
-- Templates
-	- the **Unique Note** (system default)
-	- periodic notes:
-		- Daily
-		- Weekly
-		- Monthly
-		- Annual
-
-All notes are created:
-
 - pre-structured
-- with metadata
-- with templates applied
+- base for templates
+- clean and useful
 
 > You do not manually create notes.  
 > You trigger the system. The system responds.
@@ -139,7 +128,7 @@ All notes are created:
 
 ### 3️⃣ Layer Templates with Templater
 
-- QuickAdd creates the base note
+- Unique Note Creator creates the base note
 - Templater applies:
 	- logic
 	- variations
@@ -212,17 +201,17 @@ and is future-proofed for a **fully custom theme**.
 
 Recommended progression:
 
-1. QuickAdd
+1. Unique Note
 2. Daily Notes
 3. Inbox
 4. Projects or Writing
-5. Only then: deep Zettelkasten work
+5. Only then: deep Zettelkasten(and ZK PS) work
 
 WeightOS is meant to **grow with the user**, not be mastered instantly.
 
 ---
 
-## Closing
+## 🔭 Closing
 
 WeightOS works when:
 
@@ -235,3 +224,5 @@ It exists to:
 - improve thinking
 - sustain writing
 - turn ideas into finished work
+
+---

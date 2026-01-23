@@ -1,24 +1,35 @@
 ---
-date:
+created:
 modified:
 tags:
   - fleeting-ip
-template_type: zettelkasten IP
-template_version: "0.1"
 ---
 
-# **Cause Of the Problem**
+# Initial Problem (IP)
 
-- —
+## Problem Statement
 
-# **Personal Opinion about the problem**
+- What is actually wrong?
+- Where does the tension show up in practice?
 
-- —
+## Suspected Cause
 
-# **Possible Quick or Superficial solutions.**
+- What do I think is causing this?
+- Is this structural, behavioral, or contextual?
 
-- —
+## Initial Position
 
-# **Why It Should Be solved.**
+- My current stance or instinctive reaction
+- Assumptions I am probably making (and may be wrong about)
 
-- —
+## Naive / Provisional Solutions
+
+- Quick ideas, shortcuts, or "obvious" fixes
+- Things I would try if I had to act immediately
+
+## Reason to Engage
+
+- Why this problem deserves attention now
+- What breaks, stagnates, or compounds if ignored?
+
+---

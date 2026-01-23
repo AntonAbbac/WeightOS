@@ -1,17 +1,11 @@
 ---
-date: 2026-01-20T19:55:00
+created: 2026-01-20T19:55:00
 modified: 2026-01-20T19:55:00
 tags:
   - guide
-template_type: note
-template_version: "1.0"
 ---
 
-Below is the **technical translation to English**, preserving structure, terminology, and intent. No reinterpretation, no tone shift.
-
----
-
-# 1. Core Principle of the Vault
+# 1. 🔷 Core Principle of the Vault
 
 This vault is **not organized by topics**, but by **information state and function**.
 
@@ -31,7 +25,7 @@ This principle prevents:
 
 ---
 
-# 2. Functional Layers of the System
+# 2. 💠 Functional Layers of the System
 
 ## 2.1 Input (capture)
 
@@ -145,14 +139,12 @@ They differ from projects because they are maintained, not completed.
 
 #### 📁 Journal
 
-Chronological logging, not conceptual storage.
+Free notes, without chronological impatience
 
-- **Daily:** factual and emotional record
-- **Weekly:** synthesis and pattern recognition
-- **Monthly:** strategic review
-- **Annual:** long-term direction
+- 📁 **Daily:** Daily Notes
+- 📊 **Calendar.base:** Overview of the days
 
-This creates abstraction layers over time.
+This creates an overview of the days.
 
 ---
 
@@ -194,7 +186,7 @@ This is where information becomes understanding.
 
 ---
 
-# 3. Summary Operational Flow
+# 3. 🔘 Summary Operational Flow
 
 ```
 Capture → Inbox
@@ -208,7 +200,7 @@ This flow is **iterative**, not linear.
 
 ---
 
-# 4. What This System Solves
+# 4. ⚜️ What This System Solves
 
 - Prevents passive accumulation
 - Reduces cognitive friction
@@ -218,7 +210,7 @@ This flow is **iterative**, not linear.
 
 ---
 
-# 5. Condition for Effectiveness
+# 5. 🔶 Condition for Effectiveness
 
 This vault **requires regular processing**.  
 Without it, it becomes a well-labeled storage system.
@@ -232,3 +224,5 @@ If needed, the next steps could be:
 - defining objective promotion criteria for notes
 - designing a minimal daily/weekly workflow
 - mapping common anti-patterns in this type of vault
+
+---

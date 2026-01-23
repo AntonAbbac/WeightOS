@@ -1,129 +1,87 @@
 ---
-date: 2025-12-15T12:46:00
+created: 2025-12-15T12:46:00
 modified: 2026-01-19T22:05:00
 tags:
   - system
-template_type: system
-template_version: "2.0"
 ---
 
-# Journaling System
+# 📅 Journaling System
 
-The Journaling System is a **structured temporal reflection framework**.  
-It mirrors the function of a traditional diary, but in a **digital, modular, and scalable form**, optimized for analysis, review, and long-term personal alignment.
+This journaling system is intentionally simple.
 
-The system is intentionally simple at its core, while remaining **highly extensible** through templates, metadata, and automation.
+It exists to record reality, not to analyze it.
 
----
+Complexity is added only when necessary, through templates or automation.
 
-## Folder Structure
-
-The journaling system is organized by **time granularity**, creating progressive layers of abstraction:
-
-- 📁 **Journal**
-	- 📁 **00 — Daily**
-	- 📁 **01 — Weekly**
-	- 📁 **02 — Monthly**
-	- 📁 **03 — Annual**
-
-Each level aggregates and synthesizes the previous one.
+Nothing here is mandatory except writing.
 
 ---
 
-## Daily Notes
+## 📁 Folder Structure
 
-**Purpose:** Capture reality as it happens.
+The system is organized by time.
 
-Daily notes focus on **execution, observation, and immediate feedback**.
+Each level summarizes the previous one.
 
-Typical components:
+- 📁 Journal  
+	- 📁 Daily  
+	- 📅 Calendar.base  
 
-- Daily journaling
-- Insights and spontaneous thoughts
-- Light emotional check-in
-- Tasks:
-	- Main
-	- Secondary
-	- Project-related
-- AAR (After Action Review)
-- Habits and routines tracking
-- Training reports
-- Study and learning logs
-
-Daily notes are **high-volume and low-abstraction**.
+That's it. No hidden layers.
 
 ---
 
-## Weekly Notes
+## ✨ Daily Notes
 
-**Purpose:** Synthesize execution into patterns.
+**Purpose:** capture what actually happened.
 
-Weekly notes shift from raw data to **evaluation and adjustment**.
+Daily notes are raw and informal.
 
-Typical components:
+They are not meant to be polished or structured.
 
-- Weekly objective
-- Emotional check-in
-- Weekly targets
-- Focus areas
-- Weekly breakdown
-- Obstacles and countermeasures
-- Support actions
-- Experiments and tests
-- Reflection
+You write first. You organize later, if needed.
 
-Weekly notes are **review-oriented** and directional.
+### What Goes into a Daily Note
 
----
+- Freewriting  
+  Thoughts, events, reactions, fragments. No filtering.
 
-## Monthly Notes
+- Personal CSS theme  
+  Daily notes can use a custom visual style if desired.
 
-**Purpose:** Strategic alignment and correction.
+- Calendar reference  
+  Each daily note connects to the calendar overview.(Plugin and Base)
 
-Monthly notes operate at a **higher abstraction level**, focusing on trends and intent.
+Nothing else is required.
 
-Typical components:
-
-- Monthly mission
-- Emotional check-in
-- Monthly targets
-- Core areas
-- Monthly breakdown
-- Obstacles and countermeasures
-- Support actions
-- Experiments
-- Reflection
-
-Monthly notes connect execution to longer-term goals.
+If you don't know where something belongs, it goes here.
 
 ---
 
-## Annual Notes
+## 📊 Calendar.base
 
-**Purpose:** Long-term direction and identity-level review.
+**Purpose:** overview, not detail.
 
-Annual notes define **vision, constraints, and systemic risk**.
+The calendar aggregates daily notes.
 
-Typical components:
+It exists to answer questions like:
 
-- Core mission
-- Life domains
-- Annual targets
-- Threats and risks
-- High-level mapping
-- Personal codes and principles
-- Experiments
-- Reflection
+- What happened this week?
+- Which days matter?
+- Where should I look deeper?
 
-Annual notes act as the **strategic anchor** for all other journal layers.
+No journaling happens here.
+
+Only references and summaries.
 
 ---
 
-## System Summary
+## ⚙️ Core Rule
 
-- Daily → execution and capture
-- Weekly → review and adjustment
-- Monthly → alignment and strategy
-- Annual → direction and identity
+Daily notes record reality.
 
-This journaling system transforms journaling from **expression** into **feedback, control, and growth**.
+Higher levels summarize reality.
+
+Never invert this.
+
+---

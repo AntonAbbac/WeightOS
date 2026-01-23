@@ -1,22 +1,36 @@
 ---
-date:
+created:
 modified:
 tags:
   - literature-ps
-template_type: zettelkasten IP
-template_version: "1.0"
 ---
 
-## **Ideas From other people**
+# Possible Solution (PS)
 
- - —
+## External Input
 
-> Other People domain or quotation
+- Solution, idea, or approach proposed by others
+- Source, author, or reference (mandatory)
 
-## **My Opinion on the Possible solutions**
+## Original Context
 
- - —
+- Domain or situation where this solution was applied
+- Constraints, assumptions, or conditions of use
 
-## **Links To other Solution or completion**
+## Evaluation
 
-- —
+- Relative strength: superior / inferior / complementary
+- What this solution does well
+- Where it fails or does not apply
+
+## Transferability
+
+- Can this be adapted to my problem?
+- What must change for it to work here?
+
+## Related PS Links
+
+- Other Possible Solutions addressing the same or adjacent problems
+- Competing or reinforcing approaches
+
+---

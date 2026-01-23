@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f1d0bf11409fcf",
+        "id": "0944fb15a3af6f97",
         "type": "tabs",
         "children": [
           {
-            "id": "bc254619ef48278e",
+            "id": "0583e3047e303c5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 — Meta/Vault Systems/WeightOS.md",
+                "file": "00 — Meta/Vault Guides/Vault Plugins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WeightOS"
+              "title": "Vault Plugins"
             }
           }
         ]
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "\\",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -132,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personal/Journal/00 - Daily/20260120.md",
+            "file": "Personal/Journal/Calendar.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "03 - Areas/08 - Writing/Anton's Pain/Scenes/Amor.md",
+            "file": "Personal/Journal/Calendar.base",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -173,9 +173,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "5b8dd613a3de2ec4",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,14 +199,32 @@
       "omnisearch:Omnisearch": false,
       "quickadd:QuickAdd": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "bc254619ef48278e",
+  "active": "0583e3047e303c5d",
   "lastOpenFiles": [
-    "00 — Meta/Vault Guides/Vault Plugins.md",
-    "00 — Meta/Vault Systems/WeightOS.md",
     "00 — Meta/Vault Guides/Vault Folder Structure.md",
+    "00 — Meta/Vault Guides/Simple Structure to Writing Books.md",
+    "00 — Meta/Vault Systems/WeightOS.md",
+    "Personal/Journal/Calendar.base",
+    "00 — Meta/Vault Systems/ZK PS System.md",
+    "00 — Meta/Vault Systems/Zettelkasten System.md",
+    "00 — Meta/Vault Systems/Journaling System.md",
+    "00 — Meta/Vault Guides/Vault Plugins.md",
+    "00 — Meta/Templates/(TEMPLATE) Unique Note.md",
+    "00 — Meta/Templates/(TEMPLATE) Scene.md",
+    "00 — Meta/Templates/(TEMPLATE) Permanent R.md",
+    "00 — Meta/Templates/(TEMPLATE) Literature Note PS.md",
+    "00 — Meta/Templates/(TEMPLATE) Daily Note.md",
+    "00 — Meta/Templates/(TEMPLATE) Fleeting IP.md",
+    "Untitled",
+    "Personal/Journal/Daily/20260122.md",
+    "Personal/Journal/Daily/Untitled.md",
+    "00 — Meta/Templates/(TEMPLATE) Annual Note.md",
+    "00 — Meta/Templates/(TEMPLATE) Weekly Note.md",
     "00 — Meta/Vault Guides",
     "00 — Meta/Vault Guides1768960637976/Vault Folder Structure.md",
     "00 — Meta/Vault Guides1768960637976/Vault Plugins.md",
@@ -212,25 +240,8 @@
     "AI/ChatGPT/Worst answer",
     "AI/ChatGPT/System prompts",
     "AI/ChatGPT/Resources to fill/202506041133 Teorias interessantes da psicologia.md",
-    "AI/ChatGPT/Resources to fill/202506051731 Duas maneiras de fazer um plano.md",
-    "AI/ChatGPT/Resources to fill/202508291940 Como praticar leitura ativa.md",
-    "AI/ChatGPT/Resources to fill/202511201801 Manutenção de Canivete.md",
-    "AI/ChatGPT/Resources to fill/202504191543 Hábitos militares.md",
     "AI/ChatGPT/Resources to fill",
-    "Workspace/Projects/WeightOS/Logs/202601202059 Documentation.md",
-    "00 — Inbox/202601110157 Anime filme.md",
-    "00 — Meta/Vault guides/Vault Folder Structure.md",
-    "00 — Meta/Vault guides/Vault Plugins.md",
-    "Personal/Journal/00 - Daily/20260120.md",
-    "00 — Meta/Vault Systems/Zettelkasten System.md",
-    "00 — Meta/Vault Systems/ZK PS System.md",
-    "00 — Meta/Vault Systems/Journaling System.md",
-    "Workspace/Projects/WeightOS/Logs",
-    "Workspace/Projects/WeightOS",
     "00 — Meta/Attatchments/pallet1.png",
-    "AI/ChatGPT/Prompts/Ankicards with AI.md",
-    "Workspace/ZK PS/Fleeting IP/202601122156 A transcrição de linguagem pessoal para pedagógica é possível.md",
-    "Clippings/Medias/202509042107 Repetição Espaçada com IA.md",
     "Meta/07 - Archives/Attatchments/WeightLogo 2.png",
     "Meta/07 - Archives/Attatchments/WeightLogo 1.png",
     "Meta/02 - Flowcharts/Zettelkasten PS.canvas"

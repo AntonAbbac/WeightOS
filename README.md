@@ -92,10 +92,8 @@ WeightOS
 - 📁 Personal
     - 📁 Areas
     - 📁 Journal
-        - 📁 00 — Daily
-        - 📁 01 — Weekly
-        - 📁 02 — Monthly
-        - 📁 03 — Annual
+        - 📁 Daily
+        - 📊 Calendar.base
 - 📁 Workspace
     - 📁 Projects
     - 📁 ZK PS

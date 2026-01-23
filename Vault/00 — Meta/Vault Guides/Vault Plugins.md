@@ -1,13 +1,11 @@
 ---
-date: 2026-01-20T20:02:00
-modified:
+created: 2026-01-20T20:02:00
+modified: 2026-01-22T21:45:00
 tags:
   - guide
-template_type: note
-template_version: "1.0"
 ---
 
-# Plugins
+# 📦 Plugins
 
 ## Core Plugins
 
@@ -37,6 +35,10 @@ Used for fast access to critical or recurring content.
 
 Text-based command interface.  
 Reduces menu dependency and accelerates frequent actions.
+
+### Daily Notes
+
+Captures events, thoughts, and reactions as they occur, without structure or filtering.
 
 ### Files
 
@@ -98,6 +100,10 @@ Allows content reuse without leaving Obsidian.
 Tag-based navigation and overview.  
 Complementary to links, not a replacement.
 
+### Unique Note Creator
+
+Creates a single, stable, base note for each concept to prevent duplication and fragmentation.
+
 ### Word Count
 
 Word count per note or section.  
@@ -118,11 +124,6 @@ Third-party plugins. They **extend functionality** beyond the core.
 
 Purely visual.  
 No functional contribution to the system.
-
-### Dataview
-
-Query and display data based on metadata.  
-Fundamental for system-oriented, project-based, and review-driven vaults.
 
 ### Homepage
 
@@ -206,7 +207,7 @@ Tracking tool, not a content generator.
 
 ---
 
-## System-level view
+## 💎 System-level view
 
 Taken together, these plugins fall into **four functional groups**:
 
@@ -214,13 +215,15 @@ Taken together, these plugins fall into **four functional groups**:
 	Backlinks, Search, Omnisearch, Quick Switcher, Graph View
 	
 2. **Structure and data**  
-	Properties View, Dataview, Linter, Tag Wrangler
+	Properties View, Bases, Linter, Tag Wrangler
 	
 3. **Writing and production**  
-	Templater, QuickAdd, Longform, Writing Goals, Word Count
+	Templater, Unique Note Creator, Longform, Writing Goals, Word Count
 	
 4. **Interface and ergonomics**  
 	Workspaces, Page Preview, Outline, Style Settings
 
 No single plugin is mandatory.  
 Value emerges from **alignment with the vault workflow**, not plugin count.
+
+---

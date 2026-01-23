@@ -1,0 +1,178 @@
+/* =========================
+   Design Tokens
+   ========================= */
+:root {
+  --radius-sm: 6px;
+  --radius-md: 10px;
+
+  --font-base: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --line-height-base: 1.6;
+  --line-height-heading: 1.25;
+
+  --transition-fast: 120ms ease;
+}
+
+/* =========================
+   Daily Base Theme
+   ========================= */
+.daily {
+  --bg-main: hsl(220 15% 10%);
+  --bg-soft: hsl(220 15% 14%);
+
+  --text-main: hsl(0 0% 92%);
+  --text-muted: hsl(0 0% 65%);
+  --text-faint: hsl(0 0% 45%);
+
+  --accent: hsl(220 80% 65%);
+  --accent-soft: hsl(220 80% 65% / 0.15);
+
+  font-family: var(--font-base);
+  color: var(--text-main);
+  background-color: var(--bg-main);
+  line-height: var(--line-height-base);
+
+  --interactive-accent: var(--accent);
+  --link-color: var(--accent);
+
+  --hr-color: hsl(0 0% 100% / 0.08);
+  --list-marker-color: var(--text-faint);
+
+  --tag-color: var(--accent);
+  --tag-background: var(--accent-soft);
+
+  --code-background: var(--bg-soft);
+  --code-normal: var(--text-main);
+}
+
+/* =========================
+   Day Accents (Subtle)
+   ========================= */
+.sunday    { --accent: hsl(350 70% 60%); }
+.monday    { --accent: hsl(210 80% 65%); }
+.tuesday   { --accent: hsl(150 60% 55%); }
+.wednesday { --accent: hsl(45 90% 60%); }
+.thursday  { --accent: hsl(20 85% 60%); }
+.friday    { --accent: hsl(235 70% 65%); }
+.saturday  { --accent: hsl(340 50% 65%); }
+
+/* =========================
+   Headings
+   ========================= */
+.daily :is(h1, h2, h3, h4,
+.HyperMD-header) {
+  font-family: var(--font-base);
+  line-height: var(--line-height-heading);
+  letter-spacing: -0.015em;
+  color: var(--text-main);
+}
+
+.daily :is(h1, .HyperMD-header-1) {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin: 2.2rem 0 1.2rem;
+}
+
+.daily :is(h2, .HyperMD-header-2) {
+  font-size: 1.9rem;
+  font-weight: 600;
+  margin: 2rem 0 1rem;
+}
+
+.daily :is(h3, .HyperMD-header-3) {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 1.6rem 0 0.8rem;
+}
+
+.daily :is(h4, .HyperMD-header-4) {
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  margin: 1.4rem 0 0.4rem;
+}
+
+/* =========================
+   Text & Links
+   ========================= */
+.daily p {
+  margin: 0.6rem 0;
+  color: var(--text-main);
+}
+
+.daily :is(a, .cm-hmd-internal-link) {
+  color: var(--link-color);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color var(--transition-fast),
+              color var(--transition-fast);
+}
+
+.daily :is(a:hover, .cm-hmd-internal-link:hover) {
+  border-bottom-color: currentColor;
+}
+
+/* =========================
+   Code
+   ========================= */
+.daily code,
+.daily pre {
+  font-family: "JetBrains Mono", monospace;
+}
+
+.daily code {
+  background-color: var(--code-background);
+  padding: 0.15em 0.35em;
+  border-radius: var(--radius-sm);
+  font-size: 0.9em;
+}
+
+.daily pre {
+  background-color: var(--code-background);
+  padding: 1rem;
+  border-radius: var(--radius-md);
+  overflow-x: auto;
+}
+
+/* =========================
+   Lists & HR
+   ========================= */
+.daily ul,
+.daily ol {
+  padding-left: 1.4rem;
+}
+
+.daily hr {
+  border: none;
+  height: 1px;
+  background-color: var(--hr-color);
+  margin: 2rem 0;
+}
+
+/* =========================
+   Media
+   ========================= */
+.daily img {
+  display: block;
+  max-width: 100%;
+  margin: 1.5rem auto;
+  border-radius: var(--radius-md);
+}
+
+/* =========================
+   Icons
+   ========================= */
+:is(
+  .sunday,
+  .monday,
+  .tuesday,
+  .wednesday,
+  .thursday,
+  .friday,
+  .saturday
+) svg {
+  color: var(--accent);
+  opacity: 0.7;
+}

@@ -2,9 +2,7 @@
   "templater-obsidian",
   "tag-wrangler",
   "omnisearch",
-  "dataview",
   "url-into-selection",
-  "quickadd",
   "obsidian-linter",
   "obsidian-style-settings",
   "homepage",
@@ -17,5 +15,7 @@
   "animated-cursor",
   "scroller",
   "rainbow-colored-sidebar",
-  "longform"
+  "longform",
+  "quickadd",
+  "calendar"
 ]

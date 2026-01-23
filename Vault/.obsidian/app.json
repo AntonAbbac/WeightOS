@@ -7,5 +7,6 @@
   "showInlineTitle": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "00 — Inbox",
-  "attachmentFolderPath": "00 — Meta/Archives/Attatchments"
+  "attachmentFolderPath": "00 — Meta/Archives/Attatchments",
+  "tabSize": 4
 }

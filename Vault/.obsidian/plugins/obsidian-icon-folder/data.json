@@ -48,9 +48,9 @@
   "Clippings": "LiClipboard",
   "Courses": "LiNotebook",
   "Personal": "OcPerson16",
-  "Workspace": "SiFramework",
   "01 — Inbox": "LiInbox",
   "01 — Meta": "SiCircuitverse",
   "00 — Inbox": "LiInbox",
-  "00 — Meta": "LiBrainCircuit"
+  "00 — Meta": "LiBrainCircuit",
+  "Workspace": "SiFramework"
 }

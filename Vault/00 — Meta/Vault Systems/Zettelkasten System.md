@@ -1,13 +1,11 @@
 ---
-date: 2025-12-13T13:30:00
-modified: 2026-01-19T22:10:00
+created: 2025-12-13T13:30:00
+modified: 2026-01-22T21:46:00
 tags:
   - system
-template_type: system
-template_version: "2.0"
 ---
 
-# Zettelkasten System
+# 🗃️ Zettelkasten System
 
 The **Zettelkasten system** is a structured workflow for capturing ideas and transforming them into durable, interconnected knowledge. Originally developed by **Niklas Luhmann**, its primary goal is to create notes that **retain relevance over time** and actively contribute to long-term thinking, rather than being passively stored and forgotten.
 
@@ -15,7 +13,7 @@ The system is based on the progressive refinement of ideas through distinct note
 
 ---
 
-## 1. Fleeting Notes
+## 1. 🗒️ Fleeting Notes
 
 **Fleeting Notes** are short-lived capture notes created to record ideas quickly and with minimal friction. Their purpose is not completeness, but **preservation of thought at the moment it occurs**.
 
@@ -35,7 +33,7 @@ They function as an **entry point**, not an endpoint.
 
 ---
 
-## 2. Literature Notes
+## 2. ✉️ Literature Notes
 
 **Literature Notes** are created when engaging with external sources such as books, articles, papers, or videos. Their goal is not transcription, but **active interpretation**.
 
@@ -52,7 +50,7 @@ These notes act as a **bridge between external information and internal knowledg
 
 ---
 
-## 3. Permanent Notes
+## 3. 🗄️ Permanent Notes
 
 **Permanent Notes** represent the final and most important stage of the Zettelkasten workflow. They consolidate ideas into **atomic, self-contained units of knowledge** that can stand on their own and remain understandable in the future.
 
@@ -68,7 +66,7 @@ Their value emerges from **connection**, not isolation.
 
 ---
 
-## Core Characteristics
+## ⚙️ Core Characteristics
 
 - Each note carries a **unique identifier**, commonly in the format `YYYYMMDDHHMM`
 - Notes are intentionally **linked**, not grouped by topic
@@ -78,8 +76,10 @@ Their value emerges from **connection**, not isolation.
 
 ---
 
-## Final Notes
+## 📋 Final Notes
 
 The Zettelkasten system can feel unintuitive for those seeking immediate results or rigid structure. It is not designed for quick answers, but for **long-term intellectual development**.
 
 This document describes the foundational structure of the system and is expected to evolve over time, just like the Zettelkasten itself.
+
+---

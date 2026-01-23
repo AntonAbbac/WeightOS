@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.inFolder("Personal/Journal/Daily")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - cssclasses
+      - file.tags
+    sort:
+      - property: file.name
+        direction: DESC

@@ -1,20 +1,36 @@
 ---
-date:
+created:
 modified:
 tags:
   - permanent-r
-template_type: zettelkasten IP
-template_version: "1.0"
 ---
 
-## **Personal Reflection and Opinion about the problem.**
+# Resolution (R)
 
-- —
+## Problem Recap
 
-## **External Intelligent input**
+- What was the core problem, stripped of noise?
+- What mattered and what turned out to be irrelevant?
 
-- —
+## Synthesis
 
-## **Links To other PS notes.**
+- Key insights extracted from the PS cycle
+- How internal reasoning and external input interacted
 
-- —
+## Constructed Resolution
+
+- The solution as I currently understand it
+- Why this solution is preferable to the alternatives
+- Trade-offs and limitations I consciously accept
+
+## Reflection
+
+- How my understanding of the problem changed
+- Assumptions that were corrected or reinforced
+
+## Reuse & Connection
+
+- Situations where this resolution can be reapplied
+- Links to related PS notes and past Resolutions
+
+---
