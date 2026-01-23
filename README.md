@@ -49,7 +49,7 @@ It is a system built around **information flow**, not folders or topics.
 <img src="./.github/assets/screenshots/Vault_Explorer.png" />
 </p>
 
-<sub>Screenshots — latest update: <b>2026-01-21</b></sub>
+<sub>Screenshots — latest update: <b>2026-01-22</b></sub>
 
 ---
 
