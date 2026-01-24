@@ -20,18 +20,16 @@ WeightOS Vault
 ---
 
 ## 🧠 Function
-**Second Brain / Knowledge & Writing OS**
+**A obsidian vault for amateurs**
 
 ---
 
-## 🌌 Overview
-
-**WeightOS** is a structured **second brain operating system** built on **Obsidian**.
+**WeightOS** is a structured **Vault** developed based for **beginners** looking for a good foundation to learn how to use **Obsidian**.
 It is designed to support:
 
 - long-term thinking
 - atomic knowledge (Zettelkasten)
-- structured journaling
+- simple journaling
 - serious writing and books
 - low-friction daily use
 
@@ -40,26 +38,13 @@ It is a system built around **information flow**, not folders or topics.
 
 ---
 
-## 🖼️ Gallery
-
-### Desktop & Mobile
-
-<p align="center">
-<img src="./.github/assets/screenshots/Vault_Overview.png" />
-<img src="./.github/assets/screenshots/Vault_Explorer.png" />
-</p>
-
-<sub>Screenshots — latest update: <b>2026-01-22</b></sub>
-
----
-
-## 🔹 Layout
+## 🔷 Overview
 
 ### 📖 Vault Systems
 
 - **Zettelkasten**
 - **ZK PS System**
-- **Journaling System**
+- **Simple Journaling System**
 
 ### 📖 Plugins
 
@@ -72,48 +57,20 @@ It is a system built around **information flow**, not folders or topics.
 
 ## 🗂️ Folder Structure
 
-WeightOS
+- Inbox
+- Journal (Daily)
+- Workspace
+- AI
 
-- 📁 00 — Inbox
-- 📁 00 — Meta
-    - 📁 Archives
-    - 📁 Attachments
-    - 📁 Templates
-    - 📁 Vault Guides
-    - 📁 Vault Systems
-- 📁 AI
-    - 📁 ChatGPT
-    - 📁 Prompts
-    - 📁 Resources to Fill
-    - 📁 System Prompts
-    - 📁 Worst Answer
-- 📁 Clippings
-- 📁 Courses
-- 📁 Personal
-    - 📁 Areas
-    - 📁 Journal
-        - 📁 Daily
-        - 📊 Calendar.base
-- 📁 Workspace
-    - 📁 Projects
-    - 📁 ZK PS
-        - 📁 Fleeting IP
-        - 📁 Literature PS
-        - 📁 Permanent R
-
+(See full lists inside the vault documentation to a complete overview.)
 
 ---
 
-🔧 Installation
-
-> ⚠️ CAUTION
-Before using this vault, take time to understand its systems and information cycle.
-This will reduce confusion and unnecessary questions.
-
+🔧 Getting Started
 
 
 > ℹ️ NOTE
-This vault is recommended for users with basic to advanced Obsidian knowledge.
+This vault is recommended for users with basic Obsidian knowledge.
 
 
 
@@ -130,12 +87,9 @@ Windows · Linux · macOS · Android · iOS
 
 ---
 
-2. Clone the Repository
+2. Download the latest version of the vault
 
-Make sure git is installed on your system.
-
-git clone https://github.com/AntonAbbac/WeightOS.git
-cd WeightOS
+https://img.shields.io/github/v/release/AntonAbbac/WeightOS?style=for-the-badge
 
 
 ---
@@ -150,6 +104,10 @@ Reload the vault
 
 
 The system is now ready to use.
+
+> ⚠️ CAUTION
+Before using this vault, take time to understand its systems and information cycle. To acess the documentation, open the home page inside the vault.
+This will reduce confusion and unnecessary questions.
 
 
 ---
