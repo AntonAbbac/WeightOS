@@ -1,0 +1,74 @@
+/* CSS adapted from a_deneb — originally shared on Reddit */
+
+body {
+    --icon-size: 18px;
+    --icon-gap: 8px;
+    --title-padding-left: calc(var(--icon-size) + var(--icon-gap));
+}
+
+.tree-item-self.nav-folder-title {
+    padding-inline-start: 12px;
+}
+
+.nav-files-container .tree-item-icon.collapse-icon {
+    display: none;
+}
+
+.nav-files-container .tree-item-children {
+    border-left: none;
+    box-shadow: none;
+    background-image: none;
+}
+
+
+.nav-files-container .tree-item-self.nav-folder-title,
+.nav-files-container .tree-item-self.nav-file-title {
+    padding-inline-start: 12px;
+}
+
+.nav-folder-title-content, 
+.nav-file-title-content {
+    position: relative;
+    padding-left: var(--title-padding-left);
+    display: block;
+}
+
+.nav-folder-title-content::before, 
+.nav-file-title-content::before {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-right: 0;
+}
+
+.nav-files-container .tree-item.nav-folder>.tree-item-self .nav-folder-title-content::before {
+    content: "";
+    display: inline-block;
+    width: var(--icon-size);
+    height: var(--icon-size);
+    margin-right: var(--icon-gap);
+    vertical-align: -3px;
+    background-color: currentColor;
+
+    -webkit-mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z'/></svg>") center / contain no-repeat;
+    mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z'/></svg>") center / contain no-repeat;
+}
+
+.nav-files-container .tree-item.nav-folder:not(.is-collapsed)>.tree-item-self .nav-folder-title-content::before {
+    -webkit-mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='m6 14 1.5-2.9A2 2 0 0 1 9.24 10H20a2 2 0 0 1 1.94 2.5l-1.54 6a2 2 0 0 1-1.95 1.5H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H18a2 2 0 0 1 2 2v2'/></svg>") center / contain no-repeat;
+    mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='m6 14 1.5-2.9A2 2 0 0 1 9.24 10H20a2 2 0 0 1 1.94 2.5l-1.54 6a2 2 0 0 1-1.95 1.5H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H18a2 2 0 0 1 2 2v2'/></svg>") center / contain no-repeat;
+}
+
+.nav-files-container .tree-item.nav-file>.tree-item-self .nav-file-title-content::before {
+    content: "";
+    display: inline-block;
+    width: var(--icon-size);
+    height: var(--icon-size);
+    margin-right: var(--icon-gap);
+    vertical-align: -2px;
+    background-color: currentColor;
+
+    -webkit-mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M8 2v4'/><path d='M12 2v4'/><path d='M16 2v4'/><rect width='16' height='18' x='4' y='4' rx='2'/><path d='M8 10h6'/><path d='M8 14h8'/><path d='M8 18h5'/></svg>") center / contain no-repeat;
+    mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M8 2v4'/><path d='M12 2v4'/><path d='M16 2v4'/><rect width='16' height='18' x='4' y='4' rx='2'/><path d='M8 10h6'/><path d='M8 14h8'/><path d='M8 18h5'/></svg>") center / contain no-repeat;
+}

@@ -354,7 +354,7 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1769130897488,
-      "modifiedDate": 1769131220689,
+      "modifiedDate": 1769133742101,
       "sizeInBytes": 2542,
       "sessionStart": {
         "noteCount": 0,
@@ -381,7 +381,7 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1768959536242,
-      "modifiedDate": 1769132401305,
+      "modifiedDate": 1769133753193,
       "sizeInBytes": 4246,
       "sessionStart": {
         "noteCount": 0,
@@ -395,35 +395,28 @@
     "00 — Meta/Vault Guides/Vault Plugins.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 596,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.9866666666666666,
-      "characterCount": 4847,
-      "nonWhitespaceCharacterCount": 4022,
-      "newlineCount": 225,
-      "readingTimeInMinutes": 2.249056603773585,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1768959536214,
-      "modifiedDate": 1769131211293,
+      "modifiedDate": 1769133760077,
       "sizeInBytes": 4933,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.9866666666666666,
-        "wordCount": 596,
-        "characterCount": 4847,
-        "nonWhitespaceCharacterCount": 4022,
-        "newlineCount": 225
-      },
-      "frontmatter": {
-        "created": "2026-01-20T20:02:00",
-        "modified": "2026-01-22T21:45:00",
-        "tags": [
-          "guide"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "00 — Meta/Vault Systems/Zettelkasten System.md": {
@@ -442,7 +435,7 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1767981895354,
-      "modifiedDate": 1769129751000,
+      "modifiedDate": 1769133729405,
       "sizeInBytes": 3256,
       "sessionStart": {
         "noteCount": 0,
@@ -456,28 +449,36 @@
     "00 — Meta/Vault Systems/WeightOS.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 580,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
+      "wordGoal": null,
+      "pageCount": 1.9333333333333333,
+      "characterCount": 4561,
+      "nonWhitespaceCharacterCount": 3739,
+      "newlineCount": 223,
+      "readingTimeInMinutes": 2.188679245283019,
+      "linkCount": 6,
+      "embedCount": 2,
+      "aliases": null,
       "createdDate": 1767981895318,
-      "modifiedDate": 1769130172000,
+      "modifiedDate": 1769133701961,
       "sizeInBytes": 4716,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 1.9333333333333333,
+        "wordCount": 580,
+        "characterCount": 4561,
+        "nonWhitespaceCharacterCount": 3739,
+        "newlineCount": 223
+      },
+      "frontmatter": {
+        "created": "2025-12-14T14:57:00",
+        "modified": "2026-01-22T23:01:00",
+        "tags": [
+          "permanent",
+          "system"
+        ]
       }
     },
     "00 — Meta/Vault Systems/ZK PS System.md": {
@@ -496,7 +497,7 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1767981895286,
-      "modifiedDate": 1769129683000,
+      "modifiedDate": 1769133735753,
       "sizeInBytes": 3921,
       "sessionStart": {
         "noteCount": 0,
@@ -523,7 +524,7 @@
       "embedCount": 0,
       "aliases": [],
       "createdDate": 1767981895198,
-      "modifiedDate": 1769132524233,
+      "modifiedDate": 1769133718857,
       "sizeInBytes": 1483,
       "sessionStart": {
         "noteCount": 0,

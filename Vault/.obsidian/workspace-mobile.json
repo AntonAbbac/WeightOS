@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6c333efc687a94a6",
+        "id": "8d2f5ca1611b15b7",
         "type": "tabs",
         "children": [
           {
-            "id": "31d386fd562108aa",
+            "id": "84bfb457fa80effe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "00 — Meta/Vault Systems/WeightOS.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -204,7 +204,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "31d386fd562108aa",
+  "active": "84bfb457fa80effe",
   "lastOpenFiles": [
     "00 — Meta/Vault Systems/WeightOS.md",
     "00 — Meta/Templates/(TEMPLATE) Permanent R.md",
