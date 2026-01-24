@@ -87,9 +87,9 @@ Windows · Linux · macOS · Android · iOS
 
 ---
 
-2. Download the latest version of the vault
+2. Download the latest release
 
-https://img.shields.io/github/v/release/AntonAbbac/WeightOS?style=for-the-badge
+https://github.com/AntonAbbac/WeightOS/releases/latest
 
 
 ---
