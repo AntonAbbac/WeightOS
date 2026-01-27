@@ -7,7 +7,7 @@
   "goalLeaves": [],
   "customGoalFrontmatterKey": "word-goal",
   "customDailyGoalFrontmatterKey": "daily-word-goal",
-  "goalUpdateTime": 1,
+  "goalUpdateTime": 10,
   "enableCsvExport": false,
   "csvExportFileName": "writing-goals-history.csv",
   "showSingleGoalView": true,

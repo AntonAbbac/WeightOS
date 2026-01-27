@@ -4,18 +4,16 @@
   "omnisearch",
   "url-into-selection",
   "obsidian-linter",
-  "obsidian-style-settings",
   "homepage",
-  "obsidian-icon-folder",
   "writing-goals",
   "better-word-count",
   "novel-word-count",
   "obsidian-excalidraw-plugin",
-  "obsidian-minimal-settings",
   "animated-cursor",
   "scroller",
-  "rainbow-colored-sidebar",
   "longform",
   "quickadd",
-  "calendar"
+  "calendar",
+  "obsidian-icon-folder",
+  "rainbow-colored-sidebar"
 ]

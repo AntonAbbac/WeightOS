@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAArrowUp",
       "LiBrainCircuit",
       "LiInbox",
       "LiBoxes",
-      "SiFramework",
-      "OcPerson16"
+      "SiFramework"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,7 +35,6 @@
     "useInternalPlugins": false
   },
   "01 - Maps of Content": "LiActivity",
-  "02 - Projects": "OcCheckbox16",
   "03 - Areas": "LiBox",
   "04 - Resources": "LiFile",
   "05 - Zettelkasten PS": "LiBoxes",
@@ -47,10 +46,8 @@
   "AI": "LiBoxes",
   "Clippings": "LiClipboard",
   "Courses": "LiNotebook",
-  "Personal": "OcPerson16",
   "01 — Inbox": "LiInbox",
   "01 — Meta": "SiCircuitverse",
   "00 — Inbox": "LiInbox",
-  "00 — Meta": "LiBrainCircuit",
-  "Workspace": "SiFramework"
+  "00 — Meta": "LiBrainCircuit"
 }

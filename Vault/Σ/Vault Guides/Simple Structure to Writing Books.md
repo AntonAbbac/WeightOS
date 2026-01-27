@@ -1,9 +1,8 @@
 ---
 created: 2026-01-18T21:42:00
-modified: 2026-01-22T23:02:00
+modified: 2026-01-24T14:34:00
 tags:
-  - literature
-  - writing
+  - guide
 ---
 
 ## 🗝️ Simple Structure for Writing Books in Obsidian

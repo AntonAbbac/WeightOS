@@ -1,6 +1,6 @@
 ---
 created: 2026-01-20T19:55:00
-modified: 2026-01-22T23:02:00
+modified: 2026-01-20T19:55:00
 tags:
   - guide
 ---
@@ -29,7 +29,7 @@ This principle prevents:
 
 ## 2.1 Input (capture)
 
-### 📁 00 — Inbox
+### 📁 +
 
 **Function:** fast, low-friction capture.
 
@@ -44,7 +44,7 @@ Everything that enters here must be processed and moved out.
 
 ## 2.2 Vault Meta-control
 
-### 📁 00 — Meta
+### 📁 ∞
 
 **Function:** document, maintain, and evolve the system itself.
 
@@ -53,74 +53,15 @@ Subfolders:
 - **Archives**  
 	Obsolete or closed material kept only for reference.
 	
-- **Attachments**  
-	Binary files (PDFs, images, audio).  
-	Prevents conceptual folders from being polluted.
-	
 - **Templates**  
 	Reusable note structures.  
 	Standardization reduces repeated decision-making.
-	
-- **Vault Systems and Guides**  
-	Documentation of how the vault works:
-	
-	- rules
-	- naming conventions
-	- workflows
-	- movement criteria
 
 This folder ensures the system does not rely on memory or intuition.
 
 ---
 
-## 2.3 External Inputs and Auxiliary Tools
-
-### 📁 AI
-
-**Function:** isolate AI-generated content from validated human knowledge.
-
-Prevents mixing:
-
-- probabilistic outputs
-- unverified inferences
-- ideas not yet assimilated
-
-Subfolders:
-
-- **Prompts:** reusable inputs
-- **Resources to Fill:** incomplete content
-- **System Prompts:** configurations
-- **Worst Answer:** failure cases for calibration
-
----
-
-### 📁 Clippings
-
-**Function:** store raw external material.
-
-- Quotes
-- Book excerpts
-- Articles
-- Imported notes
-
-Nothing here is considered personal knowledge.  
-Value only emerges after processing and linking.
-
----
-
-### 📁 Courses
-
-**Function:** structured, temporary learning.
-
-- Organized by course/module
-- Limited lifespan
-- After completion, content should:
-	- be promoted to permanent knowledge
-	- or archived
-
----
-
-## 2.4 Personal Domain and Temporality
+## 2.3 Personal Domain and Temporality
 
 ### 📁 Personal
 
@@ -148,9 +89,54 @@ This creates an overview of the days.
 
 ---
 
-## 2.5 Execution and Knowledge Production
+## 2.4 Execution and Knowledge Production
 
 ### 📁 Workspace
+
+#### 📁 AI
+
+**Function:** isolate AI-generated content from validated human knowledge.
+
+Prevents mixing:
+
+- probabilistic outputs
+- unverified inferences
+- ideas not yet assimilated
+
+Subfolders:
+
+- **Prompts:** reusable inputs
+- **Resources to Fill:** incomplete content
+- **System Prompts:** configurations
+- **Worst Answer:** failure cases for calibration
+
+---
+
+#### 📁 Clippings
+
+**Function:** store raw external material.
+
+- Quotes
+- Book excerpts
+- Articles
+- Imported notes
+
+Nothing here is considered personal knowledge.  
+Value only emerges after processing and linking.
+
+---
+
+#### 📁 Courses
+
+**Function:** structured, temporary learning.
+
+- Organized by course/module
+- Limited lifespan
+- After completion, content should:
+	- be promoted to permanent knowledge
+	- or archived
+
+---
 
 #### 📁 Projects
 
@@ -186,12 +172,32 @@ This is where information becomes understanding.
 
 ---
 
+## 2.5 Documentation and Index
+
+### 📁 Σ
+
+#### 📁 Attachments of the Vault
+
+Binary files (PDFs, images, audio).  
+Prevents conceptual folders from being polluted.
+
+#### 📁 Vault Systems and Guides
+
+Documentation of how the vault works:
+
+- rules
+- naming conventions
+- workflows
+- movement criteria
+
+---
+
 # 3. 🔘 Summary Operational Flow
 
 ```
-Capture → Inbox
+Capture → +
 Processing → Clippings / AI / Fleeting
-Synthesis → Literature → Permanent
+Synthesis → Literature PS → Permanent R
 Application → Projects / Areas
 Review → Journal
 ```

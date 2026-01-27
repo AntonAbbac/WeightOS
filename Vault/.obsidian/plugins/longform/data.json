@@ -6,6 +6,96 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-01-27T03:47:47.134Z",
+      "total": 0,
+      "drafts": {
+        "Workspace/Books/Anton's Pain/Index.md": {
+          "total": 0,
+          "scenes": {
+            "A Vila": 0,
+            "Tortura traumática": 0,
+            "Descanso": 0,
+            "A Infiltração vampírica": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-01-26T12:34:21.679Z",
+      "total": 0,
+      "drafts": {
+        "Workspace/Books/Anton's Pain/Index.md": {
+          "total": 0,
+          "scenes": {
+            "A Vila": 0,
+            "Tortura traumática": 0,
+            "Descanso": 0,
+            "A Infiltração vampírica": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-01-25T16:18:04.620Z",
+      "total": 0,
+      "drafts": {
+        "Workspace/Books/Anton's Pain/Index.md": {
+          "total": 0,
+          "scenes": {
+            "A Vila": 0,
+            "Tortura traumática": 0,
+            "Descanso": 0,
+            "A Infiltração vampírica": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-01-24T04:02:34.750Z",
+      "total": 0,
+      "drafts": {
+        "Workspace/Books/Anton's Pain/Index.md": {
+          "total": 0,
+          "scenes": {
+            "A Vila": 0,
+            "Tortura traumática": 0,
+            "Descanso": 0,
+            "A Infiltração vampírica": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-01-23T03:10:17.376Z",
+      "total": 0,
+      "drafts": {
+        "Workspace/Books/Anton's Pain/Index.md": {
+          "total": 0,
+          "scenes": {
+            "A Vila": 0,
+            "Tortura traumática": 0,
+            "Descanso": 0,
+            "A Infiltração vampírica": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2026-01-23T01:47:10.778Z",
+      "total": 0,
+      "drafts": {
+        "Workspace/Books/Anton's Pain/Index.md": {
+          "total": 0,
+          "scenes": {
+            "A Vila": 0,
+            "Tortura traumática": 0,
+            "Descanso": 0,
+            "A Infiltração vampírica": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-01-20T03:24:31.461Z",
       "total": 1516,
       "drafts": {
@@ -56,7 +146,7 @@
   "keepSessionCount": 30,
   "sessionFile": "longform-sessions.json",
   "numberScenes": true,
-  "sceneTemplate": "00 — Meta/Templates/(TEMPLATE) Scene.md",
+  "sceneTemplate": "∞/Templates/(TEMPLATE) Scene.md",
   "waitForSync": false,
   "fallbackWaitEnabled": true,
   "fallbackWaitTime": 5,

@@ -12,7 +12,7 @@
       "createFileIfItDoesntExist": {
         "enabled": true,
         "createWithTemplate": true,
-        "template": "00 — Meta/Templates/(TEMPLATE) Daily Note.md"
+        "template": "∞/Templates/(TEMPLATE) Daily Note.md"
       },
       "format": {
         "enabled": true,
@@ -42,11 +42,84 @@
       "templater": {
         "afterCapture": "none"
       }
+    },
+    {
+      "id": "b2822f5c-42e6-4092-a624-56520cafb25c",
+      "name": "📋 Journal Task",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Personal/Journal/Daily/{{DATE:YYYYMMDD}}",
+      "captureToActiveFile": false,
+      "activeFileWritePosition": "cursor",
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "∞/Templates/(TEMPLATE) Daily Note.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{VALUE: 📌 What needs to be completed?}}\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "#### ✒️ Freewriting",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "templater": {
+        "afterCapture": "none"
+      }
+    },
+    {
+      "id": "fa174da7-fe26-4c03-b3a4-ab5776f96ab5",
+      "name": "⚙️ New Template",
+      "type": "Template",
+      "command": true,
+      "templatePath": "∞/Templates/(TEMPLATE) Unique Note.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "(TEMPLATE) "
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "00 — Meta/Templates"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "00 — Meta/Templates",
+  "templateFolderPath": "∞/Templates",
   "announceUpdates": "all",
   "version": "2.9.4",
   "globalVariables": {},

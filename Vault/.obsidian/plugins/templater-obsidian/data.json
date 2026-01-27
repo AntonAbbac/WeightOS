@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "00 — Meta/Templates",
+  "templates_folder": "∞/Templates",
   "templates_pairs": [
     [
       "",
@@ -28,11 +28,7 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": true,
-  "enabled_templates_hotkeys": [
-    ""
-  ],
-  "startup_templates": [
-    ""
-  ],
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
   "intellisense_render": 1
 }

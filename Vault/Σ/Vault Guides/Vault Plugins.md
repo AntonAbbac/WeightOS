@@ -1,6 +1,6 @@
 ---
 created: 2026-01-20T20:02:00
-modified: 2026-01-22T23:02:00
+modified: 2026-01-22T21:45:00
 tags:
   - guide
 ---
@@ -30,6 +30,11 @@ Provides lightweight organization without external plugins.
 
 Shortcuts to notes, searches, or sections.  
 Used for fast access to critical or recurring content.
+
+### Canvas
+
+Infinite visual workspace for notes, cards, and connections.  
+Freeform layout with spatial thinking.  
 
 ### Command Palette
 
@@ -155,16 +160,6 @@ Improves fast visual identification.
 Automatic Markdown and frontmatter standardization.  
 Ensures structural consistency across the vault.
 
-### Minimal Settings
-
-Additional configuration options for the Minimal theme.  
-Provides fine-grained appearance control.
-
-### Style Settings
-
-Unified interface for theme and style customization.  
-Avoids manual CSS editing.
-
 ### Omnisearch
 
 Faster, indexed search compared to the native search.  
@@ -221,7 +216,7 @@ Taken together, these plugins fall into **four functional groups**:
 	Templater, Unique Note Creator, Longform, Writing Goals, Word Count
 	
 4. **Interface and ergonomics**  
-	Workspaces, Page Preview, Outline, Style Settings
+	Workspaces, Page Preview, Outline, Canvas
 
 No single plugin is mandatory.  
 Value emerges from **alignment with the vault workflow**, not plugin count.

@@ -1,0 +1,761 @@
+.theme-dark {
+
+/* HSL BASE */
+
+--hue-bg: 207;
+--hue-fg: 207;
+--sat-bg: 45%;
+--sat-fg: 45%;
+--lum-bg: 16%;
+--lum-fg: 26%;
+
+--bg-00: hsl(var(--hue-bg), var(--sat-bg), var(--lum-bg));
+--bg-10: hsl(var(--hue-bg), var(--sat-bg), 20%);
+--fg-00: hsl(var(--hue-fg), var(--sat-fg), var(--lum-fg));
+--fg-10: hsl(var(--hue-fg), var(--sat-fg), 28%);
+
+
+/* BASE COLOR */
+
+--text: hsl(207, 19%, 91%);
+
+--black: hsl(0, 0%, 0%);
+--purple: hsl(254, 87%, 67%);
+--purple-dark: hsl(254, 70%, 60%);
+--cyan: hsl(188, 66%, 70%);
+--cyan-dark: hsl(188, 66%, 40%);
+--red-soft: hsl(348, 83%, 47%);
+--green-soft: hsl(120, 35%, 40%);
+
+/* DEBUG */
+--test: #ff0000;
+
+
+/* SEMANTIC COLORS */
+
+--color-red: var(--red-soft);
+--color-orange: hsl(39, 100%, 50%);
+--color-yellow: hsl(60, 70%, 60%);
+--color-green: var(--green-soft);
+--color-cyan: var(--cyan);
+--color-blue: hsl(195, 100%, 50%);
+--color-purple: var(--purple);
+
+
+/* BACKGROUND */
+
+--background-primary: var(--bg-00);
+--background-primary-alt: var(--fg-00);
+--background-secondary: var(--bg-10);
+--background-secondary-alt: var(--bg-00);
+
+--background-modifier-border: var(--fg-00);
+--background-modifier-border-hover: var(--purple);
+--background-modifier-border-focus: var(--cyan-dark);
+
+--background-modifier-active-hover: var(--cyan);
+--background-modifier-hover: var(--fg-10);
+
+--background-modifier-form-field: var(--purple);
+
+
+--background-modifier-success: var(--green-soft);
+
+
+--background-modifier-error: var(--red-soft);
+--background-modifier-error-hover: var(--red-soft);
+
+--background-modifier-message: var(--text);
+
+
+/* TEXT */
+
+--text-normal: var(--text);
+--text-muted: hsl(207, 18%, 81%);
+--text-faint: hsl(210, 18%, 70%);
+--text-on-accent: var(--text);
+--text-on-accent-inverted: var(--black);
+--text-success: var(--green-soft);
+--text-warning: var(--red-soft);
+--text-error: var(--red-soft);
+--text-accent: var(--cyan);
+--text-accent-hover: var(--cyan-dark);
+
+
+--text-selection: var(--cyan-dark);
+--text-highlight-bg: var(--cyan-dark);
+
+
+--caret-color: var(--cyan);
+
+/* LINKS */
+
+--link-color: var(--cyan);
+--link-color-hover: var(--cyan-dark);
+--link-decoration: var(--purple);
+--link-decoration-hover: var(--purple-dark);
+--link-decoration-thickness: 3px;
+--link-weight: 700;
+--link-unresolved-color: var(--cyan);
+--link-unresolved-opacity: 0.8;
+--link-unresolved-filter: grayscale;
+--link-unresolved-decoration-style;
+none;
+--link-unresolved-decoration-color: var(--red-soft);
+--link-external-color: var(--text);
+--link-external-color-hover: var(--text-faint);
+--link-external-decoration: underline;
+--link-external-decoration-hover: none;
+
+/* INTERACTIVE */
+
+--interactive-normal: var(--cyan);
+--interactive-hover: var(--purple);
+
+--interactive-accent: var(--purple);
+--interactive-accent-hover: var(--cyan);
+
+
+/* BORDER AND SHADOWS */
+
+--radius-s: 20px;
+--radius-m: 25px;
+--radius-l: 30px;
+--radius-xl: 35px;
+
+--border-width: 1px;
+
+--shadow-s: 15px;
+--shadow-m: 20px;
+--shadow-l: 25px;
+
+
+/* FONTS */
+
+--font-interface-theme: "Inter";
+--font-text-theme: "Inter";
+--font-monospace-theme: "JetBrains Mono";
+
+--font-text-size: 20px;
+--font-smallest: 12px;
+--font-smaller: 14px;
+--font-small: 20px;
+--font-ui-smaller: 12px;
+--font-ui-small: 14px;
+--font-ui-medium: 16px;
+--font-ui-large: 20px;
+
+--font-thin: 150;
+--font-extralight: 250;
+--font-light: 350;
+--font-normal: 450;
+--font-medium: 550;
+--font-semibold: 650;
+--font-bold: 750;
+--font-extrabold: 850;
+--font-black: 950;
+
+--font-weight: 700;
+--bold-modifier: 1000;
+--bold-weight: 200;
+--bold-color: var(--purple);
+--italic-color: var(--purple-dark);
+
+--line-height-normal: 1.6;
+--line-height-tight: 1.4;
+
+--heading-spacing: 2px;
+--p-spacing: 8px;
+
+/* OTHERS */
+
+--code-background: var(--fg-00);
+--code-white-space: var(--fg-10);
+--code-size: 14px;
+
+--code-normal: var(--text);
+--code-comment: none;
+--code-function: none;
+--code-important: none;
+--code-keyword: none;
+--code-operator: none;
+--code-property: none;
+--code-punctuation: none;
+--code-string: none;
+--code-tag: none;
+--code-value: none;
+
+
+
+/* OPACITY */
+
+--opacity-disabled: 0.3;
+--opacity-hover: 0.5;
+
+
+/* Checkboxes */
+
+--checkbox-radius: 10px;
+--checkbox-size: 15px;
+--checkbox-marker-color: var(--purple-dark);
+--checkbox-color: var(--cyan-dark);
+--checkbox-color-hover: var(--cyan-dark);
+--checkbox-border-color: var(--text);
+--checkbox-border-color-hover: var(--text);
+--checklist-done-decoration: var(--purple-dark);
+--checklist-done-color: var(--purple-dark);
+--checkbox-margin-inline-start:
+20px;
+
+/* Cursor */
+
+--cursor: 10px;
+--cursor-link: none;
+
+/* Icons */
+
+--icon-size: 20px;
+--icon-stroke: 1px;
+--icon-color: var(--cyan);
+--icon-color-hover: var(--cyan-dark);
+--icon-color-active: var(--purple);
+--icon-color-focused: var(--cyan-dark);
+--icon-opacity: 0.8;
+--icon-opacity-hover: 1.0;
+--icon-opacity-active: 1.0;
+--clickable-icon-color: var(--purple);
+
+--icon-xs: 12px;
+--icon-s: 16px;
+--icon-m: 18px;
+--icon-l: 20px;
+--icon-xl: 22px;
+--icon-xs-stroke-width: 2px;
+--icon-s-stroke-width: 2px;
+--icon-m-stroke-width: 2px;
+--icon-l-stroke-width: 2px;
+--icon-xl-stroke-width: 2px;
+
+/* Layers */
+
+--layer-cover: 10;
+--layer-sidedock: 20;
+--layer-status-bar: 30;
+--layer-popover: 40;
+--layer-slides: 50;
+--layer-modal: 60;
+--layer-notice: 70;
+--layer-menu: 80;
+--layer-tooltip: 90;
+--layer-dragged-item: 100;
+
+/* Spacing */
+
+--size-2-1: 2px;
+--size-2-2: 4px;
+--size-2-3: 6px;
+--size-4-1: 8px;
+--size-4-2: 10px;
+--size-4-3: 12px;
+--size-4-4: 14px;
+--size-4-5: 16px;
+--size-4-6: 18px;
+--size-4-8: 20px;
+--size-4-9: 22px;
+--size-4-12: 24px;
+--size-4-16: 26px;
+--size-4-18: 28px;
+
+/* Button */
+
+--button-radius: 10px;
+
+/* Color Input */
+
+--swatch-radius
+--swatch-height
+--swatch-width
+--swatch-shadow
+
+/* Dialog */
+
+--dialog-width
+--dialog-max-width
+--dialog-max-height
+
+/* Dragging */
+
+--drag-ghost-background
+--drag-ghost-text-color
+
+/* Identation */
+
+--indentation-guide-width: 20px;
+--indentation-guide-width-active: 10px;
+--indentation-guide-color: var(--purple);
+--indentation-guide-color-active: var(--purple);
+--indentation-guide-editing-indent: none;
+--indentation-guide-reading-indent: none;
+--indentation-guide-source-indent: none;
+
+/* Modal */
+
+--modal-background
+--modal-width
+--modal-height
+--modal-max-width
+--modal-max-height
+--modal-max-width-narrow
+--modal-border-width
+--modal-border-color
+--modal-radius
+--modal-community-sidebar-width
+
+/* Multiselect */
+
+--pill-color
+--pill-color-hover
+--pill-color-remove
+--pill-color-remove-hover
+--pill-decoration
+--pill-decoration-hover
+--pill-background
+--pill-background-hover
+--pill-border-color
+--pill-border-color-hover
+--pill-border-width
+--pill-padding-x
+--pill-padding-y
+--pill-radius
+--pill-weight
+
+/* Navigation */
+
+--nav-item-size
+--nav-item-color
+--nav-item-color-hover
+--nav-item-color-active
+--nav-item-color-selected
+--nav-item-color-highlighted
+--nav-item-background-hover
+--nav-item-background-active
+--nav-item-background-selected
+--nav-item-padding
+--nav-item-parent-padding
+--nav-item-children-padding-start
+--nav-item-children-margin-start
+--nav-item-weight
+--nav-item-weight-hover
+--nav-item-weight-active
+--nav-item-white-space
+--nav-indentation-guide-width
+--nav-indentation-guide-color
+--nav-collapse-icon-color
+--nav-collapse-icon-color-collapsed
+
+
+--nav-heading-color
+--nav-heading-color-hover
+--nav-heading-color-collapsed
+--nav-heading-color-colapsed-hover
+--nav-heading-weight
+--nav-heading-weight-hover
+
+/* Popover */
+
+--popover-width
+--popover-height
+--popover-max-height
+--popover-font-size
+--popover-pdf-width
+--popover-pdf-height
+
+/* Slider */
+
+--slider-thumb-border-width
+--slider-thumb-border-color
+--slider-thumb-height
+--slider-thumb-width
+--slider-thumb-y
+--slider-thumb-radius
+--slider-track-background
+--slider-track-height
+
+/* Tabs */
+
+--tab-background-active
+--tab-text-color
+--tab-text-color-active
+--tab-text-color-focused
+--tab-text-color-focused-active
+--tab-text-color-focused-highlighted
+--tab-text-color-focused-active-current
+--tab-font-size
+--tab-font-weight
+--tab-container-background
+--tab-divider-color
+--tab-outline-color
+--tab-outline-width
+--tab-curve
+--tab-radius
+--tab-radius-active
+--tab-width
+--tab-max-width
+
+--tab-stacked-pane-width
+--tab-stacked-header-width
+--tab-stacked-font-size
+--tab-stacked-font-weight
+--tab-stacked-text-align
+--tab-stacked-text-transform
+--tab-stacked-text-writing-mode
+--tab-stacked-shadow
+
+/*Text Input */
+
+--input-height
+--input-radius
+--input-font-weight
+--input-border-width
+
+/* Toggle */
+
+--toggle-border-width
+--toggle-width
+--toggle-radius
+--toggle-thumb-color
+--toggle-thumb-radius
+--toggle-thumb-height
+--toggle-thumb-width
+--toggle-s-border-width
+--toggle-s-width
+--toggle-s-thumb-height
+--toggle-s-thumb-width
+
+/* Block */
+
+--embed-block-shadow-hover
+
+/* Blockquotoe */
+
+--blockquote-background-color
+--blockquote-border-thickness
+--blockquote-border-color
+--blockquote-font-style
+--blockquote-color
+
+/* Callout */
+
+--callout-border-width
+--callout-border-opacity
+--callout-padding
+--callout-radius
+--callout-blend-mode
+--callout-title-color
+--callout-title-padding
+--callout-title-size
+--callout-title-weight
+--callout-content-padding
+--callout-content-background
+
+--callout-default
+--callout-error
+--callout-example
+--callout-fail
+--callout-important
+--callout-info
+--callout-question
+--callout-success
+--callout-summary
+--callout-tip
+--callout-todo
+--callout-warning
+--callout-quote
+
+/* embed */
+
+--embed-max-height
+--embed-canvas-max-height
+--embed-background
+--embed-border-end
+--embed-border-start
+--embed-border-top
+--embed-border-bottom
+--embed-padding
+--embed-font-style
+
+/* File */
+
+--file-line-width
+--file-folding-offset
+--file-margins
+--file-header-font-size
+--file-header-font-weight
+--file-header-border
+--file-header-justify
+
+/* Footnote */
+
+--footnote-size
+
+/* Heading */
+
+--heading-formatting
+--heading-spacing
+--h1-color
+--h2-color
+--h3-color
+--h4-color
+--h5-color
+--h6-color
+--h1-font
+--h2-font
+--h3-font
+--h4-font
+--h5-font
+--h6-font:;
+--h1-line-height
+--h2-line-height
+--h3-line-height
+--h4-line-height
+--h5-line-height
+--h6-line-height
+--h1-size
+--h2-size
+--h3-size
+--h4-size
+--h5-size
+--h6-size
+--h1-style
+--h2-style
+--h3-style
+--h4-style
+--h5-style
+--h6-style
+--h1-variant
+--h2-variant
+--h3-variant
+--h4-variant
+--h5-variant
+--h6-variant
+--h1-weight
+--h2-weight
+--h3-weight
+--h4-weight
+--h5-weight
+--h6-weight
+
+/* Horizontal Rule */
+
+--hr-color
+--hr-thickness
+
+/* Inline Title */
+
+--inline-title-color
+--inline-title-font
+--inline-title-line-height
+--inline-title-size
+--inline-title-style
+--inline-title-variant
+--inline-title-weight
+
+/* List */
+
+--list-indent
+--list-indent-editing
+--list-indent-source
+--list-spacing
+--list-marker-color
+--list-marker-color-hover
+--list-marker-color-collapsed
+--list-bullet-border
+--list-bullet-end-padding
+--list-bullet-radius
+--list-bullet-size
+--list-bullet-transform
+--list-numbered-style
+
+/* Properties */
+
+--metadata-background
+--metadata-display-editing
+--metadata-display-reading
+--metadata-max-width
+--metadata-padding
+--metadata-border-color
+--metadata-border-radius
+--metadata-border-width
+--metadata-gap
+
+--metadata-divider-color
+--metadata-divider-color-hover
+--metadata-divider-color-focus
+--metadata-divider-width
+--metadata-property-padding
+--metadata-property-radius
+--metadata-property-radius-hover
+--metadata-property-radius-focus
+--metadata-property-background
+--metadata-property-background-hover
+--metadata-property-background-active
+--metadata-label-background-hover
+--metadata-label-background-active
+--metadata-label-font-size
+--metadata-label-font-weight
+--metadata-sidebar-label-font-size
+--metadata-label-text-color
+--metadata-label-text-color-hover
+--metadata-label-width
+--metadata-input-height
+--metadata-input-text-color
+--metadata-input-font-size
+--metadata-sidebar-input-font-size
+--metadata-input-background
+--metadata-input-background-hover
+--metadata-input-background-active
+
+/* Table */
+
+--table-background
+--table-border-width
+--table-border-color
+--table-cell-vertical-alignment
+--table-white-space
+--table-header-background
+--table-header-background-hover
+--table-header-border-width
+--table-header-border-color
+--table-header-font
+--table-header-size
+--table-header-weight
+--table-header-color
+--table-line-height
+--table-text-size
+--table-text-color
+--table-column-max-width
+--table-column-alt-background
+--table-column-first-border-width
+--table-column-last-border-width
+--table-row-background-hover
+--table-row-alt-background
+--table-row-alt-background-hover
+--table-row-last-border-width
+--table-selection
+--table-selection-blend-mode
+--table-selection-border-color
+--table-selection-border-width
+--table-selection-border-radius
+--table-drag-handle-background
+--table-drag-handle-background-active
+--table-drag-handle-color
+--table-drag-handle-color-active
+--table-add-button-background
+--table-add-button-border-width
+--table-add-button-border-color
+
+/* Tag */
+
+--tag-size
+--tag-color: var(--cyan);
+--tag-color-hover: var(--purple);
+--tag-decoration
+--tag-decoration-hover
+--tag-background
+--tag-background-hover
+--tag-border-color
+--tag-border-color-hover
+--tag-border-width
+--tag-padding-x
+--tag-padding-y
+--tag-radius
+--tag-weight
+
+/* Canvas */
+
+--canvas-background
+--canvas-card-label-color: var(--text);
+--canvas-dot-pattern: var(--purple-dark);
+--canvas-color-1
+--canvas-color-2
+--canvas-color-3
+--canvas-color-4
+--canvas-color-5
+--canvas-color-6
+
+/* File Exolorer */
+
+--vault-profile-display
+--vault-profile-actions-display
+--vault-profile-font-size
+--vault-profile-font-weight
+--vault-profile-color
+--vault-profile-color-hover
+
+/* Graph */
+
+--graph-controls-width: 40px;
+--graph-text: var(--text);
+--graph-line: var(--cyan);
+--graph-node: var(--purple-dark);
+--graph-node-unresolved: var(--red-soft);
+--graph-node-focused: var(--cyan-dark);
+--graph-node-tag: var(--cyan-dark);
+--graph-node-attachment: var(--green-soft);
+
+/* Search */
+
+--search-clear-button-color: var(--cyan);
+--search-clear-button-size: 20px;
+--search-icon-color: var(--cyan);
+--search-icon-size: 20px;
+--search-result-background: var(--cyan);
+
+/* Divider */
+
+--divider-color
+--divider-color-hover
+--divider-width
+--divider-width-hover
+--divider-vertical-height
+
+/* Ribbon */
+
+--ribbon-background
+--ribbon-background-collapsed
+--ribbon-width
+--ribbon-padding
+
+/* Scrollbar */
+
+--scrollbar-bg
+--scrollbar-thumb-bg
+--scrollbar-active-thumb-bg
+
+/* Status Bar */
+
+--status-bar-background
+--status-bar-border-color
+--status-bar-border-width
+--status-bar-font-size
+--status-bar-text-color
+--status-bar-position
+--status-bar-radius
+--status-bar-scroll-padding
+
+/* Window Frame */
+
+--titlebar-background
+--titlebar-background-focused
+--titlebar-border-width
+--titlebar-border-color
+--titlebar-text-color
+--titlebar-text-color-focused
+--titlebar-text-weight
+--header-height
+
+/* Workspace */
+
+--workspace-background-translucent: 0.1;
+
+}

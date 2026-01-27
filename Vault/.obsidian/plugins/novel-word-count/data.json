@@ -68,6 +68,211 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "∞/Templates/(TEMPLATE) Scene.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1768871032261,
+      "modifiedDate": 1769128684000,
+      "sizeInBytes": 46,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "created": null,
+        "modified": null,
+        "tags": null,
+        "status": null,
+        "arc": null
+      }
+    },
+    "∞/Templates/(TEMPLATE) Permanent R.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 90,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3,
+      "characterCount": 669,
+      "nonWhitespaceCharacterCount": 547,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 0.33962264150943394,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1768871032253,
+      "modifiedDate": 1769131061000,
+      "sizeInBytes": 717,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3,
+        "wordCount": 90,
+        "characterCount": 669,
+        "nonWhitespaceCharacterCount": 547,
+        "newlineCount": 32
+      },
+      "frontmatter": {
+        "created": null,
+        "modified": null,
+        "tags": [
+          "permanent-r"
+        ]
+      }
+    },
+    "∞/Templates/(TEMPLATE) Literature Note PS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 83,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 634,
+      "nonWhitespaceCharacterCount": 518,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 0.3132075471698113,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1768871032229,
+      "modifiedDate": 1769131048000,
+      "sizeInBytes": 684,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.27666666666666667,
+        "wordCount": 83,
+        "characterCount": 634,
+        "nonWhitespaceCharacterCount": 518,
+        "newlineCount": 32
+      },
+      "frontmatter": {
+        "created": null,
+        "modified": null,
+        "tags": [
+          "literature-ps"
+        ]
+      }
+    },
+    "∞/Templates/(TEMPLATE) Fleeting IP.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 85,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2833333333333333,
+      "characterCount": 600,
+      "nonWhitespaceCharacterCount": 484,
+      "newlineCount": 31,
+      "readingTimeInMinutes": 0.32075471698113206,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1768871032197,
+      "modifiedDate": 1769131045000,
+      "sizeInBytes": 648,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.2833333333333333,
+        "wordCount": 85,
+        "characterCount": 600,
+        "nonWhitespaceCharacterCount": 484,
+        "newlineCount": 31
+      },
+      "frontmatter": {
+        "created": null,
+        "modified": null,
+        "tags": [
+          "fleeting-ip"
+        ]
+      }
+    },
+    "∞/Templates/(TEMPLATE) Unique Note.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767981895134,
+      "modifiedDate": 1769105574000,
+      "sizeInBytes": 33,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 1,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "created": null,
+        "modified": null,
+        "tags": null
+      }
+    },
+    "∞/Templates/(TEMPLATE) Daily Note.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 30,
+      "nonWhitespaceCharacterCount": 21,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.007547169811320755,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767981895026,
+      "modifiedDate": 1769131052000,
+      "sizeInBytes": 98,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.006666666666666667,
+        "wordCount": 2,
+        "characterCount": 30,
+        "nonWhitespaceCharacterCount": 21,
+        "newlineCount": 8
+      },
+      "frontmatter": {
+        "created": null,
+        "modified": null,
+        "tags": [
+          "daily"
+        ],
+        "cssclasses": [
+          "daily"
+        ]
+      }
+    },
     "Personal/Journal/Calendar.base": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -95,8 +300,8 @@
         "newlineCount": 0
       }
     },
-    "00 — Meta/Templates/(TEMPLATE) Scene.md": {
-      "isCountable": true,
+    "Σ/Attatchments of The Vault/WeightLogo Whisper effect.png": {
+      "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
       "wordCount": 0,
@@ -110,9 +315,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1768871032261,
-      "modifiedDate": 1769128684531,
-      "sizeInBytes": 46,
+      "createdDate": 1769543927857,
+      "modifiedDate": 1769134415000,
+      "sizeInBytes": 104562,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -122,142 +327,7 @@
         "newlineCount": 0
       }
     },
-    "00 — Meta/Templates/(TEMPLATE) Permanent R.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1768871032253,
-      "modifiedDate": 1769131061301,
-      "sizeInBytes": 717,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00 — Meta/Templates/(TEMPLATE) Literature Note PS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1768871032229,
-      "modifiedDate": 1769131048397,
-      "sizeInBytes": 684,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00 — Meta/Templates/(TEMPLATE) Fleeting IP.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1768871032197,
-      "modifiedDate": 1769131045037,
-      "sizeInBytes": 648,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00 — Meta/Templates/(TEMPLATE) Unique Note.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1767981895134,
-      "modifiedDate": 1769105574705,
-      "sizeInBytes": 33,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00 — Meta/Templates/(TEMPLATE) Daily Note.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1767981895026,
-      "modifiedDate": 1769131052929,
-      "sizeInBytes": 98,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00 — Meta/Attatchments/pallet1.png": {
+    "Σ/Attatchments of The Vault/pallet1.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -284,7 +354,7 @@
         "newlineCount": 0
       }
     },
-    "00 — Meta/Attatchments/WeightLogo 2.png": {
+    "Σ/Attatchments of The Vault/WeightLogo 2.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -311,7 +381,7 @@
         "newlineCount": 0
       }
     },
-    "00 — Meta/Attatchments/WeightLogo 1.png": {
+    "Σ/Attatchments of The Vault/WeightLogo 1.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -338,151 +408,246 @@
         "newlineCount": 0
       }
     },
-    "00 — Meta/Vault Guides/Simple Structure to Writing Books.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1769130897488,
-      "modifiedDate": 1769133742101,
-      "sizeInBytes": 2542,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00 — Meta/Vault Guides/Vault Folder Structure.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1768959536242,
-      "modifiedDate": 1769133753193,
-      "sizeInBytes": 4246,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00 — Meta/Vault Guides/Vault Plugins.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1768959536214,
-      "modifiedDate": 1769133760077,
-      "sizeInBytes": 4933,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00 — Meta/Vault Systems/Zettelkasten System.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1767981895354,
-      "modifiedDate": 1769133729405,
-      "sizeInBytes": 3256,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "00 — Meta/Vault Systems/WeightOS.md": {
+    "Σ/Vault Guides/Simple Structure to Writing Books.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 580,
+      "wordCount": 315,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.9333333333333333,
-      "characterCount": 4561,
-      "nonWhitespaceCharacterCount": 3739,
-      "newlineCount": 223,
-      "readingTimeInMinutes": 2.188679245283019,
-      "linkCount": 6,
-      "embedCount": 2,
+      "pageCount": 1.05,
+      "characterCount": 2419,
+      "nonWhitespaceCharacterCount": 1964,
+      "newlineCount": 117,
+      "readingTimeInMinutes": 1.1886792452830188,
+      "linkCount": 0,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1767981895318,
-      "modifiedDate": 1769133701961,
-      "sizeInBytes": 4716,
+      "createdDate": 1769130897488,
+      "modifiedDate": 1769276085000,
+      "sizeInBytes": 2525,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.9333333333333333,
-        "wordCount": 580,
-        "characterCount": 4561,
-        "nonWhitespaceCharacterCount": 3739,
-        "newlineCount": 223
+        "pageCount": 1.05,
+        "wordCount": 315,
+        "characterCount": 2419,
+        "nonWhitespaceCharacterCount": 1964,
+        "newlineCount": 117
       },
       "frontmatter": {
-        "created": "2025-12-14T14:57:00",
-        "modified": "2026-01-22T23:01:00",
+        "created": "2026-01-18T21:42:00",
+        "modified": "2026-01-24T14:34:00",
         "tags": [
-          "permanent",
+          "guide"
+        ]
+      }
+    },
+    "Σ/Vault Guides/Vault Folder Structure.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 484,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.6133333333333333,
+      "characterCount": 4103,
+      "nonWhitespaceCharacterCount": 3363,
+      "newlineCount": 230,
+      "readingTimeInMinutes": 1.8264150943396227,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1768959536242,
+      "modifiedDate": 1769543425000,
+      "sizeInBytes": 4246,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.6133333333333333,
+        "wordCount": 484,
+        "characterCount": 4103,
+        "nonWhitespaceCharacterCount": 3363,
+        "newlineCount": 230
+      },
+      "frontmatter": {
+        "created": "2026-01-20T19:55:00",
+        "modified": "2026-01-20T19:55:00",
+        "tags": [
+          "guide"
+        ]
+      }
+    },
+    "Σ/Vault Guides/Vault Plugins.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 583,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.9433333333333334,
+      "characterCount": 4730,
+      "nonWhitespaceCharacterCount": 3921,
+      "newlineCount": 220,
+      "readingTimeInMinutes": 2.2,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1768959536214,
+      "modifiedDate": 1769542329000,
+      "sizeInBytes": 4816,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.9633333333333334,
+        "wordCount": 589,
+        "characterCount": 4812,
+        "nonWhitespaceCharacterCount": 3993,
+        "newlineCount": 225
+      },
+      "frontmatter": {
+        "created": "2026-01-20T20:02:00",
+        "modified": "2026-01-22T21:45:00",
+        "tags": [
+          "guide"
+        ]
+      }
+    },
+    "Σ/Vault Systems/Zettelkasten System.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 431,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.4366666666666668,
+      "characterCount": 3151,
+      "nonWhitespaceCharacterCount": 2655,
+      "newlineCount": 81,
+      "readingTimeInMinutes": 1.6264150943396227,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767981895354,
+      "modifiedDate": 1769129751000,
+      "sizeInBytes": 3256,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.4366666666666668,
+        "wordCount": 431,
+        "characterCount": 3151,
+        "nonWhitespaceCharacterCount": 2655,
+        "newlineCount": 81
+      },
+      "frontmatter": {
+        "created": "2025-12-13T13:30:00",
+        "modified": "2026-01-22T21:46:00",
+        "tags": [
           "system"
         ]
       }
     },
-    "00 — Meta/Vault Systems/ZK PS System.md": {
+    "Σ/Vault Systems/WeightOS.md": {
       "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 567,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.89,
+      "characterCount": 4454,
+      "nonWhitespaceCharacterCount": 3646,
+      "newlineCount": 219,
+      "readingTimeInMinutes": 2.139622641509434,
+      "linkCount": 6,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1767981895318,
+      "modifiedDate": 1769543898000,
+      "sizeInBytes": 4597,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.89,
+        "wordCount": 567,
+        "characterCount": 4454,
+        "nonWhitespaceCharacterCount": 3646,
+        "newlineCount": 219
+      },
+      "frontmatter": {
+        "created": "2025-12-14T14:57:00",
+        "modified": "2026-01-22T21:45:00",
+        "tags": [
+          "system"
+        ]
+      }
+    },
+    "Σ/Vault Systems/ZK PS System.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 509,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.6966666666666668,
+      "characterCount": 3814,
+      "nonWhitespaceCharacterCount": 3197,
+      "newlineCount": 121,
+      "readingTimeInMinutes": 1.920754716981132,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767981895286,
+      "modifiedDate": 1769129683000,
+      "sizeInBytes": 3921,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.6966666666666668,
+        "wordCount": 509,
+        "characterCount": 3814,
+        "nonWhitespaceCharacterCount": 3197,
+        "newlineCount": 121
+      },
+      "frontmatter": {
+        "created": "2025-08-07T20:42:00",
+        "modified": "2026-01-22T21:46:00",
+        "tags": [
+          "system"
+        ]
+      }
+    },
+    "Σ/Vault Systems/Journaling System.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 187,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6233333333333333,
+      "characterCount": 1382,
+      "nonWhitespaceCharacterCount": 1110,
+      "newlineCount": 83,
+      "readingTimeInMinutes": 0.7056603773584905,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1767981895198,
+      "modifiedDate": 1769132524000,
+      "sizeInBytes": 1483,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6233333333333333,
+        "wordCount": 187,
+        "characterCount": 1382,
+        "nonWhitespaceCharacterCount": 1110,
+        "newlineCount": 83
+      },
+      "frontmatter": {
+        "created": "2025-12-15T12:46:00",
+        "modified": "2026-01-19T22:05:00",
+        "tags": [
+          "system"
+        ]
+      }
+    },
+    "Σ/Attatchments of the Vault/WeightLogo 1.png": {
+      "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
       "wordCount": 0,
@@ -496,9 +661,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1767981895286,
-      "modifiedDate": 1769133735753,
-      "sizeInBytes": 3921,
+      "createdDate": 1767981894814,
+      "modifiedDate": 1765835554000,
+      "sizeInBytes": 192541,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -508,8 +673,8 @@
         "newlineCount": 0
       }
     },
-    "00 — Meta/Vault Systems/Journaling System.md": {
-      "isCountable": true,
+    "Σ/Attatchments of the Vault/WeightLogo 2.png": {
+      "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
       "wordCount": 0,
@@ -523,9 +688,63 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1767981895198,
-      "modifiedDate": 1769133718857,
-      "sizeInBytes": 1483,
+      "createdDate": 1767981894894,
+      "modifiedDate": 1765773921000,
+      "sizeInBytes": 157434,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Σ/Attatchments of the Vault/pallet1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1768959574518,
+      "modifiedDate": 1768874970000,
+      "sizeInBytes": 2364,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "Σ/Attatchments of the Vault/WeightLogo Whisper effect.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1769543927857,
+      "modifiedDate": 1769134415000,
+      "sizeInBytes": 104562,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

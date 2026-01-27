@@ -1,12 +1,24 @@
 {
   "alwaysUpdateLinks": true,
-  "mobileToolbarCommands": [],
+  "mobileToolbarCommands": [
+    "editor:insert-codeblock",
+    "editor:insert-callout",
+    "editor:cycle-list-checklist",
+    "editor:toggle-checklist-status",
+    "editor:toggle-numbered-list",
+    "editor:toggle-bullet-list",
+    "editor:toggle-blockquote",
+    "editor:toggle-code",
+    "editor:toggle-highlight",
+    "editor:insert-embed",
+    "editor:attach-file"
+  ],
   "promptDelete": false,
   "readableLineLength": true,
   "trashOption": "local",
   "showInlineTitle": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "00 — Inbox",
-  "attachmentFolderPath": "00 — Meta/Archives/Attatchments",
+  "newFileFolderPath": "+",
+  "attachmentFolderPath": "∞/Archives/Attatchments",
   "tabSize": 4
 }

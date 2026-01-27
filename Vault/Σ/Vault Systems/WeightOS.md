@@ -1,8 +1,7 @@
 ---
 created: 2025-12-14T14:57:00
-modified: 2026-01-22T23:01:00
+modified: 2026-01-22T21:45:00
 tags:
-  - permanent
   - system
 ---
 
@@ -19,7 +18,7 @@ tags:
 
 **Name:** WeightOS — Prime  
 **Size:** ~70 MB  
-**Function:** Second Brain System
+**Function:** A obsidian vault for amateurs
 
 WeightOS is a **modular knowledge and writing operating system** built on Obsidian.  
 It is designed to scale from **daily notes** to **long-form books**, while preserving clarity, structure, and low friction.
@@ -69,10 +68,9 @@ Native Obsidian functionality for navigation, structure, and writing.
 
 Extended capabilities for:
 
-- automation (Unique Note, Templater)
+- automation (Unique Note, QuickAdd, Templater)
 - data querying (Bases)
 - long-form writing (Longform, Writing Goals)
-- interface control (Minimal, Style Settings)
 
 > Plugins are chosen to **reduce friction**, not add features for their own sake.
 
@@ -84,8 +82,8 @@ Extended capabilities for:
 
 The vault is organized by **information state**, not topic.
 
-- **Inbox** → capture
-- **Meta** → system control
+- **+** → capture
+- **∞** → system control
 - **AI / Clippings / Courses** → external inputs
 - **Personal / Journal** → life and time
 - **Workspace / Projects / ZK** → execution and knowledge
@@ -101,7 +99,7 @@ You follow the flow.
 
 To use WeightOS correctly, follow this order **without skipping steps**.
 
-### 1️⃣ Start with the Inbox
+### 1️⃣ Start with the +
 
 - Capture freely.
 - No structure required.
@@ -150,7 +148,7 @@ Capture → Minimal organization → Synthesis → Real use
 
 Mapped internally as:
 
-- **Capture:** Inbox, Daily Notes
+- **Capture:** +, Daily Notes
 - **Organization:** Clippings, AI, Fleeting
 - **Synthesis:** Literature → Permanent
 - **Use:** Projects, Areas, Longform (Books)
@@ -184,14 +182,11 @@ Key components:
 
 Visual design is **functional**, not decorative.
 
-- **Minimal** theme as the foundation
-- Configuration via:
-	- Minimal Settings
-	- Style Settings
+- **Purple Haze** theme as the foundation
 - Icons, layouts, and Workspaces reinforce context
 
 WeightOS already has a visual identity  
-and is future-proofed for a **fully custom theme**.
+and is future-proofed for a **fully theme**.
 
 ---
 
@@ -203,7 +198,7 @@ Recommended progression:
 
 1. Unique Note
 2. Daily Notes
-3. Inbox
+3. -
 4. Projects or Writing
 5. Only then: deep Zettelkasten(and ZK PS) work
 
